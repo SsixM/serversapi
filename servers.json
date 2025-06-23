@@ -19,7 +19,7 @@
       ],
       "status": "Connected",
       "total_players": 8,
-      "last_parsed": "2025-06-23T19:03:31.770147"
+      "last_parsed": "2025-06-23T19:06:16.614526"
     },
     {
       "id": "lobby-mc3ils9y-40tdl6qs",
@@ -28,9 +28,8 @@
       "players": [
         "Kendankill",
         "wassi",
-        "nimfa",
+        "DevastMod Bot(2 bots)",
         "Ð ÑÑÐ»Ð°Ð½ ÑÑÐµÑÐ¾Ñ",
-        "DevastMod Bot",
         "ðkrimo.dzØ¹_JRY_",
         "Saskid",
         "Katha",
@@ -44,17 +43,25 @@
       ],
       "status": "Connected",
       "total_players": 10,
-      "last_parsed": "2025-06-23T19:03:31.817909"
+      "last_parsed": "2025-06-23T19:05:55.646918"
     },
     {
       "id": "lobby-mc3ilrn8-6kmv6nmm",
       "region": "Atlanta, Georgia",
       "gamemode": "survival",
-      "players": [],
-      "clans": [],
-      "status": "Unknown",
-      "total_players": 0,
-      "last_parsed": "2025-06-23T19:03:52.781933"
+      "players": [
+        "DevastMod Bot",
+        " ÐÐ³Ð¾ÑÑ ÐÐ°ÐºÑÑÐºÐ¾Ð²",
+        "63",
+        "dou"
+      ],
+      "clans": [
+        "RG",
+        "SOLO"
+      ],
+      "status": "Connected",
+      "total_players": 4,
+      "last_parsed": "2025-06-23T19:05:55.719689"
     },
     {
       "id": "lobby-mc3ilv4e-qkqixhoy",
@@ -75,13 +82,16 @@
         "mo3",
         "EVI ðð¼ð¤ððâ",
         "ÐÐ¾Ð»Ð¸ÑÐºÐ°",
+        "ÐÐ»Ð»Ð°Ð´Ð°",
         "à¼ºLeÍ¥geÍ£nÍ«dà¼»",
         "áµáµâ±ðð´ð°ð»Â¥â®áµáµË¢",
+        "PIAneX",
         "ðð¾ðððð",
         "Ppp4k",
+        "fuckd",
         "Danielpipi",
         "ÑÐ°ÑÐ°",
-        "Ð»",
+        "zzues",
         "ââYTKaInââ"
       ],
       "clans": [
@@ -92,8 +102,8 @@
         "ZXC"
       ],
       "status": "Connected",
-      "total_players": 23,
-      "last_parsed": "2025-06-23T19:03:31.228660"
+      "total_players": 26,
+      "last_parsed": "2025-06-23T19:05:55.139854"
     },
     {
       "id": "lobby-mc3ilukn-deva9p6o",
@@ -102,7 +112,7 @@
       "players": [
         "VXV",
         "ok.",
-        "DevastMod Bot(2 bots)",
+        "DevastMod Bot",
         "æððKobyakov",
         "êÎ±Êá´Î± ÏÏ",
         "ââ âáà¸Ì¤×Î± ÏÏââ£â",
@@ -112,8 +122,8 @@
         "XX"
       ],
       "status": "Connected",
-      "total_players": 8,
-      "last_parsed": "2025-06-23T19:03:31.303849"
+      "total_players": 7,
+      "last_parsed": "2025-06-23T19:05:55.074395"
     },
     {
       "id": "lobby-mc3iltp3-udgl8jjk",
@@ -124,7 +134,7 @@
         "wazzzaaa",
         "ELITE",
         "piko",
-        "DevastMod Bot(2 bots)",
+        "DevastMod Bot",
         "âï¸»ãâââä¸ð¯ð»ð®ðª",
         "Bonjour monsieur",
         "â¡ð½ðððð®ðð«â¡",
@@ -137,8 +147,8 @@
         "WL"
       ],
       "status": "Connected",
-      "total_players": 11,
-      "last_parsed": "2025-06-23T19:03:31.254668"
+      "total_players": 10,
+      "last_parsed": "2025-06-23T19:05:55.110138"
     },
     {
       "id": "lobby-mc3ilwax-ndie7fpg",
@@ -152,54 +162,50 @@
       "clans": [],
       "status": "Connected",
       "total_players": 4,
-      "last_parsed": "2025-06-23T19:03:32.106048"
+      "last_parsed": "2025-06-23T19:05:55.680523"
     },
     {
       "id": "lobby-mc3ilvou-mqyykcgd",
       "region": "Los Angeles, California",
       "gamemode": "survival",
       "players": [
-        "NOON Angry ",
         "DevastMod Bot(2 bots)"
       ],
       "clans": [
         "DD"
       ],
       "status": "Connected",
-      "total_players": 3,
-      "last_parsed": "2025-06-23T19:03:31.888203"
+      "total_players": 2,
+      "last_parsed": "2025-06-23T19:05:55.944121"
     },
     {
       "id": "lobby-mc3ilwuw-ijlqcwl3",
       "region": "Sydney, Australia",
       "gamemode": "survival",
       "players": [
-        "SeVer",
-        "DevastMod Bot(2 bots)"
+        "DevastMod Bot"
       ],
       "clans": [],
       "status": "Connected",
-      "total_players": 3,
-      "last_parsed": "2025-06-23T19:03:32.455549"
+      "total_players": 1,
+      "last_parsed": "2025-06-23T19:05:56.484954"
     },
     {
       "id": "lobby-mc3ilzpa-w23cwwwf",
       "region": "Osaka, Japan",
       "gamemode": "survival",
       "players": [
-        "DevastMod Bot(2 bots)",
         "JACK'",
+        "DevastMod Bot(2 bots)",
         "uiauia",
-        "M...M",
-        "General",
-        "alejandra"
+        "M...M"
       ],
       "clans": [
         "FFAS"
       ],
       "status": "Connected",
-      "total_players": 7,
-      "last_parsed": "2025-06-23T19:03:32.742517"
+      "total_players": 5,
+      "last_parsed": "2025-06-23T19:05:56.905736"
     },
     {
       "id": "lobby-mc3ilyio-ua1yjwvr",
@@ -212,17 +218,26 @@
       "clans": [],
       "status": "Connected",
       "total_players": 3,
-      "last_parsed": "2025-06-23T19:03:33.134908"
+      "last_parsed": "2025-06-23T19:05:56.970728"
     },
     {
       "id": "lobby-mc3im0nf-va7zewbu",
       "region": "Atlanta, Georgia",
       "gamemode": "ghoul",
-      "players": [],
-      "clans": [],
-      "status": "Unknown",
-      "total_players": 0,
-      "last_parsed": "2025-06-23T19:03:52.781933"
+      "players": [
+        "salvi",
+        "DevastMod Bot",
+        "Ismokedurpack^_^",
+        "ððð¡ðððð",
+        "â¦âá´á´á´ï¾ |ï¾ sá´á´á´á´á´â"
+      ],
+      "clans": [
+        "AMP",
+        "ZZDSQ"
+      ],
+      "status": "Connected",
+      "total_players": 5,
+      "last_parsed": "2025-06-23T19:05:55.679527"
     },
     {
       "id": "lobby-mc3im12d-pqpnpkuw",
@@ -232,16 +247,14 @@
         "DevastMod Bot(2 bots)",
         "Ð¢Ð¾Ñ ÑÐ°Ð¼ÑÐ¹ Ð¿Ð¸Ð´Ð¾ÑÐ¸",
         "Big Man",
-        "online game",
-        ")(l)(l (52)"
+        "online game"
       ],
       "clans": [
-        "AWP",
         "3D"
       ],
       "status": "Connected",
-      "total_players": 6,
-      "last_parsed": "2025-06-23T19:03:31.368605"
+      "total_players": 5,
+      "last_parsed": "2025-06-23T19:05:55.242224"
     }
   ]
 }
