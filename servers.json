@@ -8,7 +8,7 @@
       "clans": [],
       "status": "FULL(No connectable)",
       "total_players": 0,
-      "last_parsed": "2025-06-24T02:02:11.071974"
+      "last_parsed": "2025-06-24T02:04:17.288504"
     },
     {
       "id": "lobby-mc3ils9y-40tdl6qs",
@@ -23,7 +23,7 @@
       "clans": [],
       "status": "Connected",
       "total_players": 5,
-      "last_parsed": "2025-06-24T02:02:08.370664"
+      "last_parsed": "2025-06-24T02:04:14.381146"
     },
     {
       "id": "lobby-mc3ilrn8-6kmv6nmm",
@@ -39,7 +39,7 @@
       ],
       "status": "Connected",
       "total_players": 4,
-      "last_parsed": "2025-06-24T02:02:08.253460"
+      "last_parsed": "2025-06-24T02:04:14.517596"
     },
     {
       "id": "lobby-mc3ilv4e-qkqixhoy",
@@ -64,7 +64,7 @@
       ],
       "status": "Connected",
       "total_players": 114,
-      "last_parsed": "2025-06-24T02:02:07.756435"
+      "last_parsed": "2025-06-24T02:04:16.530970"
     },
     {
       "id": "lobby-mc3ilukn-deva9p6o",
@@ -87,7 +87,7 @@
       ],
       "status": "Connected",
       "total_players": 114,
-      "last_parsed": "2025-06-24T02:02:07.713089"
+      "last_parsed": "2025-06-24T02:04:16.614757"
     },
     {
       "id": "lobby-mc3iltp3-udgl8jjk",
@@ -106,7 +106,7 @@
       ],
       "status": "Connected",
       "total_players": 119,
-      "last_parsed": "2025-06-24T02:02:10.107611"
+      "last_parsed": "2025-06-24T02:04:16.598862"
     },
     {
       "id": "lobby-mc3ilwax-ndie7fpg",
@@ -128,7 +128,7 @@
       ],
       "status": "Connected",
       "total_players": 10,
-      "last_parsed": "2025-06-24T02:02:08.666657"
+      "last_parsed": "2025-06-24T02:04:14.540876"
     },
     {
       "id": "lobby-mc3ilvou-mqyykcgd",
@@ -140,7 +140,7 @@
       "clans": [],
       "status": "Connected",
       "total_players": 2,
-      "last_parsed": "2025-06-24T02:02:08.462456"
+      "last_parsed": "2025-06-24T02:04:14.702943"
     },
     {
       "id": "lobby-mc3ilwuw-ijlqcwl3",
@@ -152,7 +152,7 @@
       "clans": [],
       "status": "Connected",
       "total_players": 1,
-      "last_parsed": "2025-06-24T02:02:09.364944"
+      "last_parsed": "2025-06-24T02:04:15.448420"
     },
     {
       "id": "lobby-mc3ilzpa-w23cwwwf",
@@ -161,12 +161,13 @@
       "players": [
         "Le%20A",
         "DevastMod%20Bot(2 bots)",
-        "%20tao%20la"
+        "%20tao%20la",
+        "%239%20pika"
       ],
       "clans": [],
       "status": "Connected",
-      "total_players": 4,
-      "last_parsed": "2025-06-24T02:02:09.101895"
+      "total_players": 5,
+      "last_parsed": "2025-06-24T02:04:15.449007"
     },
     {
       "id": "lobby-mc3ilyio-ua1yjwvr",
@@ -178,7 +179,7 @@
       "clans": [],
       "status": "Connected",
       "total_players": 2,
-      "last_parsed": "2025-06-24T02:02:09.521507"
+      "last_parsed": "2025-06-24T02:04:15.756606"
     },
     {
       "id": "lobby-mc3im0nf-va7zewbu",
@@ -187,8 +188,7 @@
       "players": [
         "%F0%9F%91%B9%20DENYER%20%F0%9F%91%BD",
         "e%C3%A7ajapreparadapr",
-        "DevastMod%20Bot(2 bots)",
-        "HyRa",
+        "DevastMod%20Bot",
         "%F0%9D%93%AE%F0%9D%93%B5%20%E2%84%AC%F0%9D%93%AE%F0%9D%95%9F%F0%9D%94%82%F0%9D%95%92",
         "ghoul%20mode6969",
         "%E1%B4%B0%CA%B3%20%F0%9D%90%B7%F0%9D%91%8E%F0%9D%91%9B"
@@ -197,8 +197,8 @@
         "SCP"
       ],
       "status": "Connected",
-      "total_players": 8,
-      "last_parsed": "2025-06-24T02:02:08.261943"
+      "total_players": 6,
+      "last_parsed": "2025-06-24T02:04:14.335798"
     },
     {
       "id": "lobby-mc3im12d-pqpnpkuw",
@@ -214,7 +214,7 @@
       ],
       "status": "Connected",
       "total_players": 4,
-      "last_parsed": "2025-06-24T02:02:07.867243"
+      "last_parsed": "2025-06-24T02:04:14.059574"
     }
   ]
 }
