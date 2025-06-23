@@ -8,7 +8,7 @@
       "clans": [],
       "status": "FULL(No connectable)",
       "total_players": 0,
-      "last_parsed": "2025-06-24T02:27:27.484594"
+      "last_parsed": "2025-06-24T02:29:33.828895"
     },
     {
       "id": "lobby-mc3ils9y-40tdl6qs",
@@ -18,12 +18,12 @@
         "pajuga",
         ".",
         "DevastMod%20Bot",
-        "%1A%C6%A4sy%CC%B6%F0%9D%92%B8%E2%84%8Eo%F0%9F%A5%8B%1A"
+        "Player"
       ],
       "clans": [],
       "status": "Connected",
       "total_players": 4,
-      "last_parsed": "2025-06-24T02:27:24.776237"
+      "last_parsed": "2025-06-24T02:29:30.880176"
     },
     {
       "id": "lobby-mc3ilrn8-6kmv6nmm",
@@ -41,7 +41,7 @@
       ],
       "status": "Connected",
       "total_players": 5,
-      "last_parsed": "2025-06-24T02:27:24.794442"
+      "last_parsed": "2025-06-24T02:29:31.056958"
     },
     {
       "id": "lobby-mc3ilv4e-qkqixhoy",
@@ -55,10 +55,12 @@
         "Ukraina%20Love",
         "dsa"
       ],
-      "clans": [],
+      "clans": [
+        "DWD"
+      ],
       "status": "Connected",
       "total_players": 6,
-      "last_parsed": "2025-06-24T02:27:24.292963"
+      "last_parsed": "2025-06-24T02:29:30.598666"
     },
     {
       "id": "lobby-mc3ilukn-deva9p6o",
@@ -68,7 +70,7 @@
       "clans": [],
       "status": "FULL(No connectable)",
       "total_players": 0,
-      "last_parsed": "2025-06-24T02:27:26.678780"
+      "last_parsed": "2025-06-24T02:29:33.005862"
     },
     {
       "id": "lobby-mc3iltp3-udgl8jjk",
@@ -78,7 +80,7 @@
       "clans": [],
       "status": "FULL(No connectable)",
       "total_players": 0,
-      "last_parsed": "2025-06-24T02:27:26.744965"
+      "last_parsed": "2025-06-24T02:29:33.079161"
     },
     {
       "id": "lobby-mc3ilwax-ndie7fpg",
@@ -93,7 +95,7 @@
       "clans": [],
       "status": "Connected",
       "total_players": 4,
-      "last_parsed": "2025-06-24T02:27:24.814452"
+      "last_parsed": "2025-06-24T02:29:31.081490"
     },
     {
       "id": "lobby-mc3ilvou-mqyykcgd",
@@ -105,7 +107,7 @@
       "clans": [],
       "status": "Connected",
       "total_players": 1,
-      "last_parsed": "2025-06-24T02:27:24.792994"
+      "last_parsed": "2025-06-24T02:29:31.074872"
     },
     {
       "id": "lobby-mc3ilwuw-ijlqcwl3",
@@ -117,7 +119,7 @@
       "clans": [],
       "status": "Connected",
       "total_players": 2,
-      "last_parsed": "2025-06-24T02:27:25.910904"
+      "last_parsed": "2025-06-24T02:29:31.923070"
     },
     {
       "id": "lobby-mc3ilzpa-w23cwwwf",
@@ -133,7 +135,7 @@
       ],
       "status": "Connected",
       "total_players": 3,
-      "last_parsed": "2025-06-24T02:27:25.974762"
+      "last_parsed": "2025-06-24T02:29:31.928846"
     },
     {
       "id": "lobby-mc3ilyio-ua1yjwvr",
@@ -143,10 +145,12 @@
         "%F0%9F%91%B9%20DENYER%20%F0%9F%91%BD",
         "DevastMod%20Bot"
       ],
-      "clans": [],
+      "clans": [
+        "ASD"
+      ],
       "status": "Connected",
       "total_players": 2,
-      "last_parsed": "2025-06-24T02:27:25.599301"
+      "last_parsed": "2025-06-24T02:29:31.923823"
     },
     {
       "id": "lobby-mc3im0nf-va7zewbu",
@@ -158,10 +162,12 @@
         "%F0%9D%93%AE%F0%9D%93%B5%20%E2%84%AC%F0%9D%93%AE%F0%9D%95%9F%F0%9D%94%82%F0%9D%95%92",
         "ghoul%20mode6969"
       ],
-      "clans": [],
+      "clans": [
+        "MK"
+      ],
       "status": "Connected",
       "total_players": 5,
-      "last_parsed": "2025-06-24T02:27:24.605511"
+      "last_parsed": "2025-06-24T02:29:30.924018"
     },
     {
       "id": "lobby-mc3im12d-pqpnpkuw",
@@ -178,7 +184,7 @@
       ],
       "status": "Connected",
       "total_players": 4,
-      "last_parsed": "2025-06-24T02:27:24.297510"
+      "last_parsed": "2025-06-24T02:29:30.663796"
     }
   ]
 }
