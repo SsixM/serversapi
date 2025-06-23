@@ -4,11 +4,25 @@
       "id": "lobby-mc3ilstt-p3afgpwv",
       "region": "Atlanta, Georgia",
       "gamemode": "survival",
-      "players": [],
-      "clans": [],
-      "status": "FULL(No connectable)",
-      "total_players": 0,
-      "last_parsed": "2025-06-23T19:27:31.884023"
+      "players": [
+        "Brn",
+        "The king",
+        "DevastMod Bot",
+        "listserver",
+        "GD",
+        "Enes*",
+        "rover",
+        "É®ÓÇÉ®ÊÉ¢ÉÕ¼ÉÊÇÊ",
+        "Lil peep",
+        "oscar"
+      ],
+      "clans": [
+        "S22",
+        "WASD"
+      ],
+      "status": "Connected",
+      "total_players": 10,
+      "last_parsed": "2025-06-23T19:29:34.771110"
     },
     {
       "id": "lobby-mc3ils9y-40tdl6qs",
@@ -29,15 +43,16 @@
       ],
       "status": "Connected",
       "total_players": 8,
-      "last_parsed": "2025-06-23T19:27:10.841870"
+      "last_parsed": "2025-06-23T19:29:55.754214"
     },
     {
       "id": "lobby-mc3ilrn8-6kmv6nmm",
       "region": "Atlanta, Georgia",
       "gamemode": "survival",
       "players": [
+        "DevastMod Bot(2 bots)",
+        "dou",
         " ÐÐ³Ð¾ÑÑ ÐÐ°ÐºÑÑÐºÐ¾Ð²",
-        "DevastMod Bot",
         "Ø§",
         "63"
       ],
@@ -45,8 +60,8 @@
         "SOLO"
       ],
       "status": "Connected",
-      "total_players": 4,
-      "last_parsed": "2025-06-23T19:27:10.811174"
+      "total_players": 6,
+      "last_parsed": "2025-06-23T19:29:34.806908"
     },
     {
       "id": "lobby-mc3ilv4e-qkqixhoy",
@@ -54,21 +69,22 @@
       "gamemode": "survival",
       "players": [
         "ð-_-ð",
+        "Alexa",
         "ÐºÐµÐ½Ñ",
         "ãÐÑÐ±ã Ñ ãð¢ððã",
-        "â¥ðð â¥",
+        "ââYTKaInââ",
         "â­ï¸ÐÐµÐ²Ð¸Ð½ÑÐ¹ Ð¨ÑÐ°Ð¼â¢ï¸",
         "Ð¢Ð¸Ð¼Ð°  :(",
         "ï½ï½llï½ï½â·â·â·á¶»áµáµ Î¶",
+        "filipusik",
         "zxc/daun02",
         "diyar BOSS",
         "EVI ðð¼ð¤ððâ",
-        "Bosta_games",
-        "Andrew",
         "DevastMod Bot(2 bots)",
+        "Andrew",
         "ÐÐ»Ð»Ð°Ð´Ð°",
         "ðð¾ðððð",
-        "ââYTKaInââ",
+        "â¥ðð â¥",
         "zzues",
         "ÑÐ°ÑÐ°",
         "kuba%0",
@@ -83,8 +99,8 @@
         "ZXC"
       ],
       "status": "Connected",
-      "total_players": 22,
-      "last_parsed": "2025-06-23T19:27:10.422402"
+      "total_players": 23,
+      "last_parsed": "2025-06-23T19:29:34.248772"
     },
     {
       "id": "lobby-mc3ilukn-deva9p6o",
@@ -101,7 +117,7 @@
       ],
       "status": "Connected",
       "total_players": 5,
-      "last_parsed": "2025-06-23T19:27:10.430143"
+      "last_parsed": "2025-06-23T19:29:34.188620"
     },
     {
       "id": "lobby-mc3iltp3-udgl8jjk",
@@ -126,7 +142,7 @@
       ],
       "status": "Connected",
       "total_players": 11,
-      "last_parsed": "2025-06-23T19:27:10.401018"
+      "last_parsed": "2025-06-23T19:29:34.236136"
     },
     {
       "id": "lobby-mc3ilwax-ndie7fpg",
@@ -139,7 +155,7 @@
       "clans": [],
       "status": "Connected",
       "total_players": 3,
-      "last_parsed": "2025-06-23T19:27:11.217994"
+      "last_parsed": "2025-06-23T19:29:35.007354"
     },
     {
       "id": "lobby-mc3ilvou-mqyykcgd",
@@ -153,7 +169,7 @@
       ],
       "status": "Connected",
       "total_players": 2,
-      "last_parsed": "2025-06-23T19:27:11.254958"
+      "last_parsed": "2025-06-23T19:29:35.033918"
     },
     {
       "id": "lobby-mc3ilwuw-ijlqcwl3",
@@ -167,7 +183,7 @@
       "clans": [],
       "status": "Connected",
       "total_players": 4,
-      "last_parsed": "2025-06-23T19:27:11.891031"
+      "last_parsed": "2025-06-23T19:29:35.769725"
     },
     {
       "id": "lobby-mc3ilzpa-w23cwwwf",
@@ -180,7 +196,7 @@
       "clans": [],
       "status": "Connected",
       "total_players": 3,
-      "last_parsed": "2025-06-23T19:27:12.262729"
+      "last_parsed": "2025-06-23T19:29:36.089425"
     },
     {
       "id": "lobby-mc3ilyio-ua1yjwvr",
@@ -193,7 +209,7 @@
       "clans": [],
       "status": "Connected",
       "total_players": 3,
-      "last_parsed": "2025-06-23T19:27:12.350262"
+      "last_parsed": "2025-06-23T19:29:36.034201"
     },
     {
       "id": "lobby-mc3im0nf-va7zewbu",
@@ -203,25 +219,23 @@
       "clans": [],
       "status": "FULL(No connectable)",
       "total_players": 0,
-      "last_parsed": "2025-06-23T19:27:31.884023"
+      "last_parsed": "2025-06-23T19:29:55.754214"
     },
     {
       "id": "lobby-mc3im12d-pqpnpkuw",
       "region": "Frankfurt, Deutschland",
       "gamemode": "ghoul",
       "players": [
-        "à¹Û£ÛÇ¤Ð½ÏsÏà¼»ä¸ï¿½",
         "Ð¢Ð¾Ñ ÑÐ°Ð¼ÑÐ¹ Ð¿Ð¸Ð´Ð¾ÑÐ¸",
         "Big Man",
-        "pomni ",
         "DevastMod Bot(2 bots)"
       ],
       "clans": [
         "3D"
       ],
       "status": "Connected",
-      "total_players": 6,
-      "last_parsed": "2025-06-23T19:27:10.451574"
+      "total_players": 4,
+      "last_parsed": "2025-06-23T19:29:34.254773"
     }
   ]
 }
