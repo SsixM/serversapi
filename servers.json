@@ -8,7 +8,7 @@
       "clans": [],
       "status": "FULL(No connectable)",
       "total_players": 0,
-      "last_parsed": "2025-06-23T23:39:35.265005"
+      "last_parsed": "2025-06-23T23:41:59.060642"
     },
     {
       "id": "lobby-mc3ils9y-40tdl6qs",
@@ -18,10 +18,10 @@
         "1",
         "e%C3%A7ajapreparadapr",
         "tuputamadrepollo",
+        "DevastMod%20Bot(2 bots)",
         "espa%C3%B1ol%20%28spas7%29",
         "%F0%9F%91%8Ckrimo.dz%D8%B9_JRY_",
-        "TrAmigo",
-        "DevastMod%20Bot"
+        "TrAmigo"
       ],
       "clans": [
         "PEACE",
@@ -29,8 +29,8 @@
         "TR"
       ],
       "status": "Connected",
-      "total_players": 7,
-      "last_parsed": "2025-06-23T23:39:14.333114"
+      "total_players": 8,
+      "last_parsed": "2025-06-23T23:41:37.934214"
     },
     {
       "id": "lobby-mc3ilrn8-6kmv6nmm",
@@ -45,33 +45,42 @@
       "clans": [],
       "status": "Connected",
       "total_players": 4,
-      "last_parsed": "2025-06-23T23:39:14.161090"
+      "last_parsed": "2025-06-23T23:41:59.060642"
     },
     {
       "id": "lobby-mc3ilv4e-qkqixhoy",
       "region": "Frankfurt, Deutschland",
       "gamemode": "survival",
-      "players": [],
-      "clans": [],
-      "status": "FULL(No connectable)",
-      "total_players": 0,
-      "last_parsed": "2025-06-23T23:39:16.004027"
+      "players": [
+        "dc.gg%2Fscript1(103 bots)",
+        "DevastMod%20Bot",
+        "hwdp",
+        "%D0%90%D0%91%D0%94%D0%A3%D0%9B%D0%9B%D0%90%D0%A5",
+        "EVI%20%F0%9D%95%9B%F0%9D%94%BC%F0%9D%95%A4%F0%9D%95%8B%F0%9D%95%96%E2%84%9D",
+        "Lemon"
+      ],
+      "clans": [
+        "JOIN(18)"
+      ],
+      "status": "Connected",
+      "total_players": 108,
+      "last_parsed": "2025-06-23T23:41:37.469216"
     },
     {
       "id": "lobby-mc3ilukn-deva9p6o",
       "region": "Frankfurt, Deutschland",
       "gamemode": "survival",
       "players": [
-        "dc.gg%2Fscript1(109 bots)",
+        "dc.gg%2Fscript1(104 bots)",
         "mkon%20raider",
-        "jfvliry%20%20w8",
         "%D0%9F%D0%B5%D0%BD%3F%20%D1%81%D0%BE%D1%8173",
         "Ruski",
+        "jfvliry%20%20w8",
         "%E2%99%A5%F0%9D%9E%9B%F0%9D%9E%A0%E2%99%A5",
+        "DevastMod%20Bot",
         "%D0%BA%D0%B0%D0%BB%D0%BE%D0%B5%D0%B4",
         "%F0%9D%93%80%F0%9D%92%BE%F0%9D%93%81%F0%9D%93%81%F0%9D%91%92%F0%9D%93%87",
-        "%F0%9F%84%BC%F0%9F%85%81%20%F0%9F%85%83%F0%9F%84%B4%F0%9F%84%BC",
-        "DevastMod%20Bot"
+        "%F0%9F%84%BC%F0%9F%85%81%20%F0%9F%85%83%F0%9F%84%B4%F0%9F%84%BC"
       ],
       "clans": [
         "DWD",
@@ -80,8 +89,8 @@
         "TEM"
       ],
       "status": "Connected",
-      "total_players": 118,
-      "last_parsed": "2025-06-23T23:39:15.077310"
+      "total_players": 113,
+      "last_parsed": "2025-06-23T23:41:37.510382"
     },
     {
       "id": "lobby-mc3iltp3-udgl8jjk",
@@ -91,7 +100,7 @@
       "clans": [],
       "status": "FULL(No connectable)",
       "total_players": 0,
-      "last_parsed": "2025-06-23T23:39:16.050506"
+      "last_parsed": "2025-06-23T23:41:39.878804"
     },
     {
       "id": "lobby-mc3ilwax-ndie7fpg",
@@ -116,7 +125,7 @@
       ],
       "status": "Connected",
       "total_players": 10,
-      "last_parsed": "2025-06-23T23:39:14.639249"
+      "last_parsed": "2025-06-23T23:41:38.386201"
     },
     {
       "id": "lobby-mc3ilvou-mqyykcgd",
@@ -135,19 +144,19 @@
       ],
       "status": "Connected",
       "total_players": 7,
-      "last_parsed": "2025-06-23T23:39:14.648244"
+      "last_parsed": "2025-06-23T23:41:38.407649"
     },
     {
       "id": "lobby-mc3ilwuw-ijlqcwl3",
       "region": "Sydney, Australia",
       "gamemode": "survival",
       "players": [
-        "DevastMod%20Bot"
+        "DevastMod%20Bot(2 bots)"
       ],
       "clans": [],
       "status": "Connected",
-      "total_players": 1,
-      "last_parsed": "2025-06-23T23:39:14.855130"
+      "total_players": 2,
+      "last_parsed": "2025-06-23T23:41:38.973623"
     },
     {
       "id": "lobby-mc3ilzpa-w23cwwwf",
@@ -164,7 +173,7 @@
       ],
       "status": "Connected",
       "total_players": 5,
-      "last_parsed": "2025-06-23T23:39:15.642869"
+      "last_parsed": "2025-06-23T23:41:39.376002"
     },
     {
       "id": "lobby-mc3ilyio-ua1yjwvr",
@@ -176,7 +185,7 @@
       "clans": [],
       "status": "Connected",
       "total_players": 2,
-      "last_parsed": "2025-06-23T23:39:15.628369"
+      "last_parsed": "2025-06-23T23:41:39.474394"
     },
     {
       "id": "lobby-mc3im0nf-va7zewbu",
@@ -197,24 +206,23 @@
       ],
       "status": "Connected",
       "total_players": 8,
-      "last_parsed": "2025-06-23T23:39:14.354019"
+      "last_parsed": "2025-06-23T23:41:59.060642"
     },
     {
       "id": "lobby-mc3im12d-pqpnpkuw",
       "region": "Frankfurt, Deutschland",
       "gamemode": "ghoul",
       "players": [
-        "dc.gg%2Fscript1(116 bots)",
-        "lokynwalk",
-        "%F0%9D%93%91%F0%9D%93%A4%F0%9D%93%9C%F0%9D%93%91%F0%9D%93%9B%F0%9D%93%94%F0%9D%93%91%F0%9D%93%94",
-        "DevastMod%20Bot"
+        "dc.gg%2Fscript1(108 bots)",
+        "DevastMod%20Bot(2 bots)",
+        "lokynwalk"
       ],
       "clans": [
         "JOIN(18)"
       ],
       "status": "Connected",
-      "total_players": 119,
-      "last_parsed": "2025-06-23T23:39:13.708893"
+      "total_players": 111,
+      "last_parsed": "2025-06-23T23:41:37.588453"
     }
   ]
 }
