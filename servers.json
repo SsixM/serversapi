@@ -7,20 +7,23 @@
       "players": [
         "Lionel",
         "santiago2.9pro",
-        "DevastMod%20Bot(2 bots)",
+        "DevastMod%20Bot",
+        "Nevernopanda",
         "%E3%80%8E%F0%9D%93%A1%F0%9D%93%A3%F0%9D%93%A7%E3%80%8F%F0%9D%99%881000",
         "%20Sr.Devast7",
         "yuta%20okkotsu",
+        "%EA%A7%81%EA%A7%85%E0%B9%96%DB%A3%DB%A3%DB%9CI%E1%91%8E%E1%96%B4I%E1%91%8EITY%EA%A7%85%EA%A7%82",
         "picun%20f6%20pro"
       ],
       "clans": [
         "LS",
         "GROUL",
-        "DDAAA"
+        "DDAAA",
+        "YT"
       ],
       "status": "Connected",
-      "total_players": 8,
-      "last_parsed": "2025-06-24T05:25:28.213054"
+      "total_players": 9,
+      "last_parsed": "2025-06-24T05:27:32.791466"
     },
     {
       "id": "lobby-mc3ils9y-40tdl6qs",
@@ -32,7 +35,7 @@
       "clans": [],
       "status": "Connected",
       "total_players": 1,
-      "last_parsed": "2025-06-24T05:25:28.342293"
+      "last_parsed": "2025-06-24T05:27:32.878633"
     },
     {
       "id": "lobby-mc3ilrn8-6kmv6nmm",
@@ -48,7 +51,7 @@
       ],
       "status": "Connected",
       "total_players": 3,
-      "last_parsed": "2025-06-24T05:25:28.186060"
+      "last_parsed": "2025-06-24T05:27:32.809323"
     },
     {
       "id": "lobby-mc3ilv4e-qkqixhoy",
@@ -70,7 +73,7 @@
       ],
       "status": "Connected",
       "total_players": 7,
-      "last_parsed": "2025-06-24T05:25:27.861634"
+      "last_parsed": "2025-06-24T05:27:32.252886"
     },
     {
       "id": "lobby-mc3ilukn-deva9p6o",
@@ -85,7 +88,7 @@
       ],
       "status": "Connected",
       "total_players": 2,
-      "last_parsed": "2025-06-24T05:25:27.885080"
+      "last_parsed": "2025-06-24T05:27:32.293283"
     },
     {
       "id": "lobby-mc3iltp3-udgl8jjk",
@@ -97,7 +100,7 @@
       "clans": [],
       "status": "Connected",
       "total_players": 1,
-      "last_parsed": "2025-06-24T05:25:27.942566"
+      "last_parsed": "2025-06-24T05:27:32.271229"
     },
     {
       "id": "lobby-mc3ilwax-ndie7fpg",
@@ -109,7 +112,7 @@
       "clans": [],
       "status": "Connected",
       "total_players": 1,
-      "last_parsed": "2025-06-24T05:25:28.534909"
+      "last_parsed": "2025-06-24T05:27:32.944219"
     },
     {
       "id": "lobby-mc3ilvou-mqyykcgd",
@@ -121,19 +124,19 @@
       "clans": [],
       "status": "Connected",
       "total_players": 1,
-      "last_parsed": "2025-06-24T05:25:28.352649"
+      "last_parsed": "2025-06-24T05:27:33.158036"
     },
     {
       "id": "lobby-mc3ilwuw-ijlqcwl3",
       "region": "Sydney, Australia",
       "gamemode": "survival",
       "players": [
-        "DevastMod%20Bot(2 bots)"
+        "DevastMod%20Bot"
       ],
       "clans": [],
       "status": "Connected",
-      "total_players": 2,
-      "last_parsed": "2025-06-24T05:25:29.182353"
+      "total_players": 1,
+      "last_parsed": "2025-06-24T05:27:33.881917"
     },
     {
       "id": "lobby-mc3ilzpa-w23cwwwf",
@@ -150,7 +153,7 @@
       ],
       "status": "Connected",
       "total_players": 4,
-      "last_parsed": "2025-06-24T05:25:28.968108"
+      "last_parsed": "2025-06-24T05:27:33.337942"
     },
     {
       "id": "lobby-mc3ilyio-ua1yjwvr",
@@ -164,7 +167,7 @@
       "clans": [],
       "status": "Connected",
       "total_players": 3,
-      "last_parsed": "2025-06-24T05:25:29.245646"
+      "last_parsed": "2025-06-24T05:27:33.349887"
     },
     {
       "id": "lobby-mc3im0nf-va7zewbu",
@@ -180,7 +183,7 @@
       ],
       "status": "Connected",
       "total_players": 4,
-      "last_parsed": "2025-06-24T05:25:28.228968"
+      "last_parsed": "2025-06-24T05:27:32.888927"
     },
     {
       "id": "lobby-mc3im12d-pqpnpkuw",
@@ -193,7 +196,7 @@
       "clans": [],
       "status": "Connected",
       "total_players": 2,
-      "last_parsed": "2025-06-24T05:25:27.860306"
+      "last_parsed": "2025-06-24T05:27:32.343629"
     }
   ]
 }
