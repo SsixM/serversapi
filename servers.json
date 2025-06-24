@@ -10,7 +10,6 @@
         "%F0%9F%90%92%20%20%EF%BC%B7%F0%9D%90%8E%D1%8F%D0%BA%E2%93%94%C5%98%20%20%F0%9F%90%AF",
         "MR.DEVAST%E2%98%A2%E2%98%A2",
         "An%20OG",
-        "%EA%A7%81%E0%BC%92%E2%98%AC%CE%BA%C9%AA%C9%B4%C9%A2%E2%98%AC%E0%BC%92%EA%A7%82",
         "a%CC%B3l%CC%B3l%CC%B3o%CC%B3",
         "Ppp4k",
         "%E1%8F%A6%E2%84%B4xGoku%2CMR%2CRk",
@@ -24,8 +23,8 @@
         "777"
       ],
       "status": "Connected",
-      "total_players": 14,
-      "last_parsed": "2025-06-24T06:59:17.434490"
+      "total_players": 13,
+      "last_parsed": "2025-06-24T07:01:22.379911"
     },
     {
       "id": "lobby-mc3ils9y-40tdl6qs",
@@ -37,7 +36,7 @@
       "clans": [],
       "status": "Connected",
       "total_players": 1,
-      "last_parsed": "2025-06-24T06:59:17.563306"
+      "last_parsed": "2025-06-24T07:01:22.520853"
     },
     {
       "id": "lobby-mc3ilrn8-6kmv6nmm",
@@ -50,7 +49,7 @@
       "clans": [],
       "status": "Connected",
       "total_players": 2,
-      "last_parsed": "2025-06-24T06:59:17.388118"
+      "last_parsed": "2025-06-24T07:01:22.503387"
     },
     {
       "id": "lobby-mc3ilv4e-qkqixhoy",
@@ -75,7 +74,7 @@
       ],
       "status": "Connected",
       "total_players": 11,
-      "last_parsed": "2025-06-24T06:59:17.115383"
+      "last_parsed": "2025-06-24T07:01:22.102416"
     },
     {
       "id": "lobby-mc3ilukn-deva9p6o",
@@ -91,7 +90,7 @@
       ],
       "status": "Connected",
       "total_players": 3,
-      "last_parsed": "2025-06-24T06:59:17.093550"
+      "last_parsed": "2025-06-24T07:01:22.033317"
     },
     {
       "id": "lobby-mc3iltp3-udgl8jjk",
@@ -104,7 +103,7 @@
       "clans": [],
       "status": "Connected",
       "total_players": 2,
-      "last_parsed": "2025-06-24T06:59:17.102059"
+      "last_parsed": "2025-06-24T07:01:22.103757"
     },
     {
       "id": "lobby-mc3ilwax-ndie7fpg",
@@ -119,7 +118,7 @@
       "clans": [],
       "status": "Connected",
       "total_players": 4,
-      "last_parsed": "2025-06-24T06:59:17.807595"
+      "last_parsed": "2025-06-24T07:01:22.521138"
     },
     {
       "id": "lobby-mc3ilvou-mqyykcgd",
@@ -136,7 +135,7 @@
       ],
       "status": "Connected",
       "total_players": 4,
-      "last_parsed": "2025-06-24T06:59:17.566763"
+      "last_parsed": "2025-06-24T07:01:22.684780"
     },
     {
       "id": "lobby-mc3ilwuw-ijlqcwl3",
@@ -150,7 +149,7 @@
       "clans": [],
       "status": "Connected",
       "total_players": 4,
-      "last_parsed": "2025-06-24T06:59:18.400276"
+      "last_parsed": "2025-06-24T07:01:23.327621"
     },
     {
       "id": "lobby-mc3ilzpa-w23cwwwf",
@@ -170,20 +169,19 @@
       ],
       "status": "Connected",
       "total_players": 6,
-      "last_parsed": "2025-06-24T06:59:18.151521"
+      "last_parsed": "2025-06-24T07:01:23.383269"
     },
     {
       "id": "lobby-mc3ilyio-ua1yjwvr",
       "region": "Osaka, Japan",
       "gamemode": "survival",
       "players": [
-        "lol",
         "DevastMod%20Bot"
       ],
       "clans": [],
       "status": "Connected",
-      "total_players": 2,
-      "last_parsed": "2025-06-24T06:59:18.460708"
+      "total_players": 1,
+      "last_parsed": "2025-06-24T07:01:23.395900"
     },
     {
       "id": "lobby-mc3im0nf-va7zewbu",
@@ -199,7 +197,7 @@
       ],
       "status": "Connected",
       "total_players": 4,
-      "last_parsed": "2025-06-24T06:59:17.583212"
+      "last_parsed": "2025-06-24T07:01:22.511516"
     },
     {
       "id": "lobby-mc3im12d-pqpnpkuw",
@@ -212,7 +210,7 @@
       "clans": [],
       "status": "Connected",
       "total_players": 2,
-      "last_parsed": "2025-06-24T06:59:17.175686"
+      "last_parsed": "2025-06-24T07:01:22.033947"
     }
   ]
 }
