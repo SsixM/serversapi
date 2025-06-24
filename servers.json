@@ -14,10 +14,10 @@
         "devast.io",
         "a%CC%B3l%CC%B3l%CC%B3o%CC%B3",
         "Ppp4k",
+        "Enemy%3F%2FO%2Ffriend%3F",
         "Danielpipi",
         "%E1%8F%A6%E2%84%B4xGoku%2CMR%2CRk",
         "zerok",
-        "Pancracio",
         "picun%20f6%20pro",
         "..."
       ],
@@ -27,35 +27,32 @@
       ],
       "status": "Connected",
       "total_players": 16,
-      "last_parsed": "2025-06-24T07:13:53.228149"
+      "last_parsed": "2025-06-24T07:15:58.130225"
     },
     {
       "id": "lobby-mc3ils9y-40tdl6qs",
       "region": "Atlanta, Georgia",
       "gamemode": "survival",
       "players": [
-        "DevastMod%20Bot(2 bots)",
-        "gigvang",
-        "TOP%201%20IS%20GAY%20LOL"
+        "DevastMod%20Bot"
       ],
-      "clans": [
-        "NIGGA"
-      ],
+      "clans": [],
       "status": "Connected",
-      "total_players": 4,
-      "last_parsed": "2025-06-24T07:13:53.339798"
+      "total_players": 1,
+      "last_parsed": "2025-06-24T07:15:58.135425"
     },
     {
       "id": "lobby-mc3ilrn8-6kmv6nmm",
       "region": "Atlanta, Georgia",
       "gamemode": "survival",
       "players": [
-        "DevastMod%20Bot(2 bots)"
+        "gigvang",
+        "DevastMod%20Bot"
       ],
       "clans": [],
       "status": "Connected",
       "total_players": 2,
-      "last_parsed": "2025-06-24T07:13:53.340060"
+      "last_parsed": "2025-06-24T07:15:58.237541"
     },
     {
       "id": "lobby-mc3ilv4e-qkqixhoy",
@@ -63,10 +60,9 @@
       "gamemode": "survival",
       "players": [
         "%F0%9F%84%BC%F0%9F%85%81%20%F0%9F%85%83%F0%9F%84%B4%F0%9F%84%BC",
-        "DevastMod%20Bot(2 bots)",
+        "DevastMod%20Bot",
         "%F0%9D%9F%99s%F0%9D%96%8EL%F0%9D%92%86%F0%9D%93%83%F0%9D%90%9C%F0%9D%92%86",
         "%5B%F0%9D%93%9E4%F0%9D%93%9A%F0%9D%93%9E%5D%20Crapxu",
-        "123",
         "%E1%B2%BC%E1%B2%BC%E1%B2%BC%E1%B2%BC%E1%B2%BC%E1%B2%BC%E1%B2%BC%E1%B2%BC%E1%B2%BC%E1%B2%BC%E1%B2%BC%E1%B2%BC%E1%B2%BC%E1%B2%BC%E1%B2%BC%E1%B2%BC",
         "%D0%BB%D0%B5%D0%BD%D0%B8%D0%BD",
         "%E1%B5%89%E1%B5%9B%E2%81%B1%F0%9F%86%81%F0%9F%85%B4%F0%9F%85%B0%F0%9F%85%BB%C2%A5%E2%82%AE%E1%B5%88%E1%B5%87%CB%A2",
@@ -81,15 +77,16 @@
         "SESA"
       ],
       "status": "Connected",
-      "total_players": 14,
-      "last_parsed": "2025-06-24T07:13:52.893086"
+      "total_players": 12,
+      "last_parsed": "2025-06-24T07:15:57.836111"
     },
     {
       "id": "lobby-mc3ilukn-deva9p6o",
       "region": "Frankfurt, Deutschland",
       "gamemode": "survival",
       "players": [
-        "DevastMod%20Bot(2 bots)",
+        "DevastMod%20Bot",
+        "%D0%BF%D0%BE%D0%BB%D0%BE%D0%B2%20%D0%BD%D0%B0%D0%B4%D0%BE%2022500",
         "%D0%91%D0%9C%D0%92",
         "%D0%BA%D0%B0%D0%BB%D0%BE%D0%B5%D0%B4"
       ],
@@ -98,7 +95,7 @@
       ],
       "status": "Connected",
       "total_players": 4,
-      "last_parsed": "2025-06-24T07:13:52.883019"
+      "last_parsed": "2025-06-24T07:15:59.136943"
     },
     {
       "id": "lobby-mc3iltp3-udgl8jjk",
@@ -106,20 +103,19 @@
       "gamemode": "survival",
       "players": [
         "%F0%9D%96%85%F0%9D%95%AD%F0%9D%95%B0%F0%9D%95%BD%F0%9D%96%87%E3%82%B7%EF%B8%8E",
-        "DevastMod%20Bot(2 bots)",
+        "DevastMod%20Bot",
         "TS_Murka"
       ],
       "clans": [],
       "status": "Connected",
-      "total_players": 4,
-      "last_parsed": "2025-06-24T07:13:52.847673"
+      "total_players": 3,
+      "last_parsed": "2025-06-24T07:15:57.898954"
     },
     {
       "id": "lobby-mc3ilwax-ndie7fpg",
       "region": "Los Angeles, California",
       "gamemode": "survival",
       "players": [
-        "helper",
         "Jos%C3%A9%20LTX",
         "32",
         "DevastMod%20Bot",
@@ -127,20 +123,20 @@
       ],
       "clans": [],
       "status": "Connected",
-      "total_players": 5,
-      "last_parsed": "2025-06-24T07:13:53.525453"
+      "total_players": 4,
+      "last_parsed": "2025-06-24T07:15:58.587127"
     },
     {
       "id": "lobby-mc3ilvou-mqyykcgd",
       "region": "Los Angeles, California",
       "gamemode": "survival",
       "players": [
-        "DevastMod%20Bot(2 bots)"
+        "DevastMod%20Bot"
       ],
       "clans": [],
       "status": "Connected",
-      "total_players": 2,
-      "last_parsed": "2025-06-24T07:13:53.563857"
+      "total_players": 1,
+      "last_parsed": "2025-06-24T07:15:58.547637"
     },
     {
       "id": "lobby-mc3ilwuw-ijlqcwl3",
@@ -154,15 +150,15 @@
       "clans": [],
       "status": "Connected",
       "total_players": 4,
-      "last_parsed": "2025-06-24T07:13:54.126337"
+      "last_parsed": "2025-06-24T07:15:59.117953"
     },
     {
       "id": "lobby-mc3ilzpa-w23cwwwf",
       "region": "Osaka, Japan",
       "gamemode": "survival",
       "players": [
-        "DevastMod%20Bot(2 bots)",
         "oc%20cho",
+        "DevastMod%20Bot",
         "QZ%E2%82%AC%C2%ABPHU%E2%84%A2",
         "m",
         "bonnie%20-%20bastard"
@@ -171,20 +167,20 @@
         "D"
       ],
       "status": "Connected",
-      "total_players": 6,
-      "last_parsed": "2025-06-24T07:13:53.898563"
+      "total_players": 5,
+      "last_parsed": "2025-06-24T07:15:58.800093"
     },
     {
       "id": "lobby-mc3ilyio-ua1yjwvr",
       "region": "Osaka, Japan",
       "gamemode": "survival",
       "players": [
-        "DevastMod%20Bot(2 bots)"
+        "DevastMod%20Bot"
       ],
       "clans": [],
       "status": "Connected",
-      "total_players": 2,
-      "last_parsed": "2025-06-24T07:13:53.966594"
+      "total_players": 1,
+      "last_parsed": "2025-06-24T07:15:59.077501"
     },
     {
       "id": "lobby-mc3im0nf-va7zewbu",
@@ -200,14 +196,14 @@
       ],
       "status": "Connected",
       "total_players": 4,
-      "last_parsed": "2025-06-24T07:13:53.219251"
+      "last_parsed": "2025-06-24T07:15:58.280220"
     },
     {
       "id": "lobby-mc3im12d-pqpnpkuw",
       "region": "Frankfurt, Deutschland",
       "gamemode": "survival",
       "players": [
-        "DevastMod%20Bot(2 bots)",
+        "DevastMod%20Bot",
         "fofvas1",
         "%EA%A7%81%E2%80%A2.%E2%8A%B9DEATH-IN%E2%8A%B9.%E2%80%A2"
       ],
@@ -215,8 +211,8 @@
         "DEATH"
       ],
       "status": "Connected",
-      "total_players": 4,
-      "last_parsed": "2025-06-24T07:13:52.916293"
+      "total_players": 3,
+      "last_parsed": "2025-06-24T07:15:57.865184"
     }
   ]
 }
