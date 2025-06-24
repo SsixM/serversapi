@@ -5,13 +5,14 @@
       "region": "Atlanta, Georgia",
       "gamemode": "survival",
       "players": [
-        "Bob",
+        "santiago2.9pro",
         "mencchio4",
         "Vic%20papa",
         "Devast7%20fan",
         "Jos%C3%A9%20LTX",
         "%F0%9F%94%A5%F0%9F%92%98%E2%87%A8%E1%8E%A2%E1%B4%8F%F0%9D%92%8F%D6%81%F0%9D%90%AC%E1%B6%A9%E2%84%AF%CA%8D%D4%91",
         "%E2%AB%B7%F0%9F%94%B0Patriota.BR%E2%9A%9C%E2%AB%B8",
+        "DevastMod%20Bot(2 bots)",
         "josue",
         "vnombres123",
         "%E3%80%90%E1%97%AA%F0%9D%96%9As%E2%80%A0%CA%8F%E3%80%91%E2%80%AE",
@@ -24,7 +25,6 @@
         "listserver",
         "PhoeniX",
         "%F0%9F%90%92%20%20%EF%BC%B7%F0%9D%90%8E%D1%8F%D0%BA%E2%93%94%C5%98%20%20%F0%9F%90%AF",
-        "DevastMod%20Bot",
         "papumisterioso%20%E3%83%84",
         "Duvanproxz"
       ],
@@ -38,8 +38,8 @@
         "TEAM"
       ],
       "status": "Connected",
-      "total_players": 22,
-      "last_parsed": "2025-06-25T02:02:44.185052"
+      "total_players": 23,
+      "last_parsed": "2025-06-25T02:04:50.405007"
     },
     {
       "id": "lobby-mc3ils9y-40tdl6qs",
@@ -56,7 +56,7 @@
       ],
       "status": "Connected",
       "total_players": 5,
-      "last_parsed": "2025-06-25T02:02:44.096157"
+      "last_parsed": "2025-06-25T02:04:50.374156"
     },
     {
       "id": "lobby-mc3ilrn8-6kmv6nmm",
@@ -67,10 +67,12 @@
         "e",
         "DevastMod%20Bot(2 bots)"
       ],
-      "clans": [],
+      "clans": [
+        "BLACK"
+      ],
       "status": "Connected",
       "total_players": 4,
-      "last_parsed": "2025-06-25T02:02:44.083850"
+      "last_parsed": "2025-06-25T02:04:50.373637"
     },
     {
       "id": "lobby-mc3ilv4e-qkqixhoy",
@@ -81,10 +83,9 @@
         "%F0%9D%93%80%F0%9D%92%BE%F0%9D%93%81%F0%9D%93%81%F0%9D%91%92%F0%9D%93%87",
         "DevastMod%20Bot(2 bots)",
         "AlON",
-        "%F0%9F%8D%95hut",
         "%E3%80%90%E2%84%B3%F0%9D%93%90%F0%9D%90%8A%F0%9D%90%92%E3%80%91%E3%80%90%E1%A6%93%F0%9D%93%AC%CF%81%E3%80%91",
         "test",
-        "suck",
+        "%F0%9F%8D%95lagging",
         "noik124235",
         "%D0%BA%D1%82%D0%BE%20%D0%BF%D1%80%D0%BE%D1%87%D0%B5%D0%BB%20%D0%B3%D0%B5%D0%B9",
         "CE1",
@@ -93,12 +94,11 @@
       "clans": [
         "SCP",
         "SSQQQ",
-        "AWAS",
-        "DDDD"
+        "AWAS"
       ],
       "status": "Connected",
-      "total_players": 13,
-      "last_parsed": "2025-06-25T02:02:43.698968"
+      "total_players": 12,
+      "last_parsed": "2025-06-25T02:04:50.071807"
     },
     {
       "id": "lobby-mc3ilukn-deva9p6o",
@@ -108,7 +108,7 @@
       "clans": [],
       "status": "FULL(No connectable)",
       "total_players": 0,
-      "last_parsed": "2025-06-25T02:02:46.012537"
+      "last_parsed": "2025-06-25T02:04:52.436036"
     },
     {
       "id": "lobby-mc3iltp3-udgl8jjk",
@@ -117,7 +117,7 @@
       "players": [
         "%D0%BF%D0%B0%D1%80%D0%B0%D0%BB%D0%BB%D0%B5%D0%BB%D0%B5%D0%BF%D0%B8%D0%BF%D0%B5%D0%B4",
         "Garnacho",
-        "DevastMod%20Bot",
+        "DevastMod%20Bot(2 bots)",
         "Player",
         "%D1%82%D0%BE%D1%80%D1%8F%D0%BD%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BA%D0%BE%D0%BD%D1%8C"
       ],
@@ -126,8 +126,8 @@
         "TEAM"
       ],
       "status": "Connected",
-      "total_players": 5,
-      "last_parsed": "2025-06-25T02:02:43.701236"
+      "total_players": 6,
+      "last_parsed": "2025-06-25T02:04:49.989949"
     },
     {
       "id": "lobby-mc3ilwax-ndie7fpg",
@@ -146,7 +146,7 @@
       ],
       "status": "Connected",
       "total_players": 7,
-      "last_parsed": "2025-06-25T02:02:44.333588"
+      "last_parsed": "2025-06-25T02:04:50.798941"
     },
     {
       "id": "lobby-mc3ilvou-mqyykcgd",
@@ -163,7 +163,7 @@
       ],
       "status": "Connected",
       "total_players": 5,
-      "last_parsed": "2025-06-25T02:02:44.338930"
+      "last_parsed": "2025-06-25T02:04:50.765787"
     },
     {
       "id": "lobby-mc3ilwuw-ijlqcwl3",
@@ -175,7 +175,7 @@
       "clans": [],
       "status": "Connected",
       "total_players": 1,
-      "last_parsed": "2025-06-25T02:02:44.930905"
+      "last_parsed": "2025-06-25T02:04:51.253905"
     },
     {
       "id": "lobby-mc3ilzpa-w23cwwwf",
@@ -184,13 +184,12 @@
       "players": [
         "c",
         "DevastMod%20Bot(2 bots)",
-        "bonnie%20-%20bastard",
-        "%D0%BD%D0%B8%D0%BA%D0%B8%D1%82%D0%B0"
+        "bonnie%20-%20bastard"
       ],
       "clans": [],
       "status": "Connected",
-      "total_players": 5,
-      "last_parsed": "2025-06-25T02:02:45.071788"
+      "total_players": 4,
+      "last_parsed": "2025-06-25T02:04:51.040130"
     },
     {
       "id": "lobby-mc3ilyio-ua1yjwvr",
@@ -203,17 +202,17 @@
       "clans": [],
       "status": "Connected",
       "total_players": 3,
-      "last_parsed": "2025-06-25T02:02:45.015862"
+      "last_parsed": "2025-06-25T02:04:51.028633"
     },
     {
       "id": "lobby-mc3im0nf-va7zewbu",
       "region": "Atlanta, Georgia",
       "gamemode": "survival",
       "players": [
-        "DevastMod%20Bot(2 bots)",
         "%E3%83%83",
         "Ismokedurpack%5E_%5E",
         "%F0%9F%A4%AB",
+        "DevastMod%20Bot",
         "Cosmic",
         "e%C3%A7ajapreparadapr"
       ],
@@ -222,8 +221,8 @@
         "XD"
       ],
       "status": "Connected",
-      "total_players": 7,
-      "last_parsed": "2025-06-25T02:02:44.114510"
+      "total_players": 6,
+      "last_parsed": "2025-06-25T02:04:50.425766"
     },
     {
       "id": "lobby-mc3im12d-pqpnpkuw",
@@ -232,7 +231,6 @@
       "players": [
         "Kurt%20Knispel",
         "Gillette",
-        "%D0%9D%D0%95%20%D0%91%D0%95%D0%99%D0%A2%D0%95%20%D0%9C%D0%95%D0%9D%D0%AF%20%D0%9F%D0%96",
         "%EA%A7%81%E2%80%A2.%E2%8A%B9DEATH-IN%E2%8A%B9.%E2%80%A2",
         "DevastMod%20Bot(2 bots)",
         "HyRa",
@@ -242,8 +240,8 @@
         "A"
       ],
       "status": "Connected",
-      "total_players": 8,
-      "last_parsed": "2025-06-25T02:02:43.626883"
+      "total_players": 7,
+      "last_parsed": "2025-06-25T02:04:49.989581"
     }
   ]
 }
