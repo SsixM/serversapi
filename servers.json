@@ -15,7 +15,7 @@
       "clans": [],
       "status": "Connected",
       "total_players": 7,
-      "last_parsed": "2025-06-24T10:43:05.830839"
+      "last_parsed": "2025-06-24T10:45:11.513475"
     },
     {
       "id": "lobby-mc3ils9y-40tdl6qs",
@@ -33,7 +33,7 @@
       ],
       "status": "Connected",
       "total_players": 5,
-      "last_parsed": "2025-06-24T10:43:05.844228"
+      "last_parsed": "2025-06-24T10:45:11.519332"
     },
     {
       "id": "lobby-mc3ilrn8-6kmv6nmm",
@@ -43,12 +43,10 @@
         "63",
         "DevastMod%20Bot"
       ],
-      "clans": [
-        "KJ"
-      ],
+      "clans": [],
       "status": "Connected",
       "total_players": 2,
-      "last_parsed": "2025-06-24T10:43:05.984463"
+      "last_parsed": "2025-06-24T10:45:11.532812"
     },
     {
       "id": "lobby-mc3ilv4e-qkqixhoy",
@@ -82,11 +80,12 @@
         "NEGR",
         "PIDOR",
         "SCP",
-        "URSS"
+        "URSS",
+        "TUMA"
       ],
       "status": "Connected",
       "total_players": 20,
-      "last_parsed": "2025-06-24T10:43:05.533055"
+      "last_parsed": "2025-06-24T10:45:11.229132"
     },
     {
       "id": "lobby-mc3ilukn-deva9p6o",
@@ -96,7 +95,7 @@
       "clans": [],
       "status": "FULL(No connectable)",
       "total_players": 0,
-      "last_parsed": "2025-06-24T10:43:07.844598"
+      "last_parsed": "2025-06-24T10:45:13.509280"
     },
     {
       "id": "lobby-mc3iltp3-udgl8jjk",
@@ -119,7 +118,7 @@
       ],
       "status": "Connected",
       "total_players": 10,
-      "last_parsed": "2025-06-24T10:43:05.583884"
+      "last_parsed": "2025-06-24T10:45:11.217432"
     },
     {
       "id": "lobby-mc3ilwax-ndie7fpg",
@@ -132,15 +131,16 @@
         "%233",
         "jestra%20%E3%83%83",
         "%F0%9F%90%B2%20%D0%BF%E3%80%90t%E3%80%91%D0%B8%D1%87%F0%9D%96%90%F0%9D%95%92%20%F0%9F%92%A5",
-        "iguane219"
+        "iguane219",
+        "wik"
       ],
       "clans": [
         "AA",
         "DS"
       ],
       "status": "Connected",
-      "total_players": 7,
-      "last_parsed": "2025-06-24T10:43:06.173566"
+      "total_players": 8,
+      "last_parsed": "2025-06-24T10:45:11.854351"
     },
     {
       "id": "lobby-mc3ilvou-mqyykcgd",
@@ -152,7 +152,7 @@
       "clans": [],
       "status": "Connected",
       "total_players": 1,
-      "last_parsed": "2025-06-24T10:43:06.006027"
+      "last_parsed": "2025-06-24T10:45:11.695803"
     },
     {
       "id": "lobby-mc3ilwuw-ijlqcwl3",
@@ -165,17 +165,19 @@
       "clans": [],
       "status": "Connected",
       "total_players": 3,
-      "last_parsed": "2025-06-24T10:43:07.090913"
+      "last_parsed": "2025-06-24T10:45:12.452623"
     },
     {
       "id": "lobby-mc3ilzpa-w23cwwwf",
       "region": "Osaka, Japan",
       "gamemode": "survival",
       "players": [
+        "maru",
         "oc%20cho",
         "rinrin",
         "QZ%E2%82%AC%C2%ABPHU%E2%84%A2",
         "DevastMod%20Bot",
+        "G%E1%BA%A5u%20%C4%91%E1%BA%A9u%20%C4%91%E1%BB%A5%20cali",
         "%E5%A4%A9%E6%89%8D%E3%81%AE%E3%82%8A%E3%82%87%E3%81%86%E3%81%9F%E6%A7%98",
         "%E3%81%93%E3%82%93",
         "xD"
@@ -184,8 +186,8 @@
         "QZ"
       ],
       "status": "Connected",
-      "total_players": 7,
-      "last_parsed": "2025-06-24T10:43:06.693932"
+      "total_players": 9,
+      "last_parsed": "2025-06-24T10:45:12.348810"
     },
     {
       "id": "lobby-mc3ilyio-ua1yjwvr",
@@ -200,7 +202,7 @@
       ],
       "status": "Connected",
       "total_players": 2,
-      "last_parsed": "2025-06-24T10:43:06.877549"
+      "last_parsed": "2025-06-24T10:45:12.348546"
     },
     {
       "id": "lobby-mc3im0nf-va7zewbu",
@@ -216,7 +218,7 @@
       ],
       "status": "Connected",
       "total_players": 4,
-      "last_parsed": "2025-06-24T10:43:05.831308"
+      "last_parsed": "2025-06-24T10:45:11.652226"
     },
     {
       "id": "lobby-mc3im12d-pqpnpkuw",
@@ -235,7 +237,7 @@
       ],
       "status": "Connected",
       "total_players": 6,
-      "last_parsed": "2025-06-24T10:43:05.480952"
+      "last_parsed": "2025-06-24T10:45:11.208626"
     }
   ]
 }
