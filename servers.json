@@ -21,7 +21,7 @@
       ],
       "status": "Connected",
       "total_players": 116,
-      "last_parsed": "2025-06-24T04:52:01.258930"
+      "last_parsed": "2025-06-24T04:54:09.185520"
     },
     {
       "id": "lobby-mc3ils9y-40tdl6qs",
@@ -33,7 +33,7 @@
       "clans": [],
       "status": "Connected",
       "total_players": 1,
-      "last_parsed": "2025-06-24T04:52:01.317194"
+      "last_parsed": "2025-06-24T04:54:06.405960"
     },
     {
       "id": "lobby-mc3ilrn8-6kmv6nmm",
@@ -47,7 +47,7 @@
       "clans": [],
       "status": "Connected",
       "total_players": 3,
-      "last_parsed": "2025-06-24T04:52:01.265103"
+      "last_parsed": "2025-06-24T04:54:06.471264"
     },
     {
       "id": "lobby-mc3ilv4e-qkqixhoy",
@@ -69,7 +69,7 @@
       ],
       "status": "Connected",
       "total_players": 7,
-      "last_parsed": "2025-06-24T04:52:00.939948"
+      "last_parsed": "2025-06-24T04:54:06.128998"
     },
     {
       "id": "lobby-mc3ilukn-deva9p6o",
@@ -84,7 +84,7 @@
       ],
       "status": "Connected",
       "total_players": 2,
-      "last_parsed": "2025-06-24T04:52:00.840381"
+      "last_parsed": "2025-06-24T04:54:06.128081"
     },
     {
       "id": "lobby-mc3iltp3-udgl8jjk",
@@ -94,7 +94,7 @@
       "clans": [],
       "status": "FULL(No connectable)",
       "total_players": 0,
-      "last_parsed": "2025-06-24T04:52:03.170371"
+      "last_parsed": "2025-06-24T04:54:08.393785"
     },
     {
       "id": "lobby-mc3ilwax-ndie7fpg",
@@ -107,7 +107,7 @@
       "clans": [],
       "status": "Connected",
       "total_players": 2,
-      "last_parsed": "2025-06-24T04:52:01.466380"
+      "last_parsed": "2025-06-24T04:54:06.910516"
     },
     {
       "id": "lobby-mc3ilvou-mqyykcgd",
@@ -119,7 +119,7 @@
       "clans": [],
       "status": "Connected",
       "total_players": 1,
-      "last_parsed": "2025-06-24T04:52:01.614418"
+      "last_parsed": "2025-06-24T04:54:06.792802"
     },
     {
       "id": "lobby-mc3ilwuw-ijlqcwl3",
@@ -131,7 +131,7 @@
       "clans": [],
       "status": "Connected",
       "total_players": 2,
-      "last_parsed": "2025-06-24T04:52:02.505645"
+      "last_parsed": "2025-06-24T04:54:07.605696"
     },
     {
       "id": "lobby-mc3ilzpa-w23cwwwf",
@@ -142,6 +142,7 @@
         "oc%20cho",
         "DevastMod%20Bot",
         "c%E1%BB%8Dlkidd",
+        "wasd",
         "han%20k11",
         "bonnie%20-%20bastard"
       ],
@@ -149,24 +150,24 @@
         "QZ"
       ],
       "status": "Connected",
-      "total_players": 6,
-      "last_parsed": "2025-06-24T04:52:02.146219"
+      "total_players": 7,
+      "last_parsed": "2025-06-24T04:54:07.227465"
     },
     {
       "id": "lobby-mc3ilyio-ua1yjwvr",
       "region": "Osaka, Japan",
       "gamemode": "survival",
       "players": [
-        "dc.gg%2Fscript1(82 bots)",
-        "DevastMod%20Bot",
-        "PAZ"
+        "dc.gg%2Fscript1(112 bots)",
+        "PAZ",
+        "DevastMod%20Bot"
       ],
       "clans": [
         "JOIN(18)"
       ],
       "status": "Connected",
-      "total_players": 84,
-      "last_parsed": "2025-06-24T04:52:01.864181"
+      "total_players": 114,
+      "last_parsed": "2025-06-24T04:54:07.228753"
     },
     {
       "id": "lobby-mc3im0nf-va7zewbu",
@@ -174,27 +175,27 @@
       "gamemode": "survival",
       "players": [
         "DevastMod%20Bot(2 bots)",
-        "salvi"
+        "salvi",
+        "facu"
       ],
       "clans": [
         "SALVI"
       ],
       "status": "Connected",
-      "total_players": 3,
-      "last_parsed": "2025-06-24T04:52:01.456153"
+      "total_players": 4,
+      "last_parsed": "2025-06-24T04:54:06.580702"
     },
     {
       "id": "lobby-mc3im12d-pqpnpkuw",
       "region": "Frankfurt, Deutschland",
       "gamemode": "survival",
       "players": [
-        "DevastMod%20Bot",
-        "Cons"
+        "DevastMod%20Bot"
       ],
       "clans": [],
       "status": "Connected",
-      "total_players": 2,
-      "last_parsed": "2025-06-24T04:52:00.841290"
+      "total_players": 1,
+      "last_parsed": "2025-06-24T04:54:06.143798"
     }
   ]
 }
