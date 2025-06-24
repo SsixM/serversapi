@@ -5,52 +5,52 @@
       "region": "Atlanta, Georgia",
       "gamemode": "survival",
       "players": [
-        "dc.gg%2Fscript1(107 bots)",
+        "dc.gg%2Fscript1(101 bots)",
         "%E7%88%AA%E3%84%A9%E4%B8%AB%E7%88%AA%E3%84%A9%E4%B8%AB%F0%9F%9D%97%F0%9D%93%9D%E2%BC%95%E9%97%A9%F0%9D%93%9D%E3%80%B8%E9%97%A9",
+        "DevastMod%20Bot(2 bots)",
         "oscar",
-        "Soap",
+        "L%CC%B3-%CC%B3l%CC%B3i%CC%B3a%CC%B3",
         "x",
-        "DevastMod%20Bot",
         "zzz"
       ],
       "clans": [
-        "JOIN(18)"
+        "JOIN(9)",
+        "2006"
       ],
       "status": "Connected",
-      "total_players": 113,
-      "last_parsed": "2025-06-24T03:13:43.649502"
+      "total_players": 108,
+      "last_parsed": "2025-06-24T03:15:48.793046"
     },
     {
       "id": "lobby-mc3ils9y-40tdl6qs",
       "region": "Atlanta, Georgia",
       "gamemode": "survival",
       "players": [
-        "DevastMod%20Bot(2 bots)",
         "HBOS",
         ".",
-        "ROBOT%20R2%20%5Brus%5D",
+        "DevastMod%20Bot",
         "TrAmigo"
       ],
       "clans": [
         "TR"
       ],
       "status": "Connected",
-      "total_players": 6,
-      "last_parsed": "2025-06-24T03:13:43.650853"
+      "total_players": 4,
+      "last_parsed": "2025-06-24T03:15:48.789007"
     },
     {
       "id": "lobby-mc3ilrn8-6kmv6nmm",
       "region": "Atlanta, Georgia",
       "gamemode": "survival",
       "players": [
-        "DevastMod%20Bot(2 bots)",
         "Devast7%20fan",
-        "mobile%20BR"
+        "mobile%20BR",
+        "DevastMod%20Bot"
       ],
       "clans": [],
       "status": "Connected",
-      "total_players": 4,
-      "last_parsed": "2025-06-24T03:13:43.628258"
+      "total_players": 3,
+      "last_parsed": "2025-06-24T03:15:48.737579"
     },
     {
       "id": "lobby-mc3ilv4e-qkqixhoy",
@@ -61,7 +61,8 @@
         "%E2%98%A2devast.io%E2%98%A2",
         "%D0%BB%D0%B5%D0%BD%D0%B8%D0%BD",
         "%3C%2Fblank%3E",
-        "DevastMod%20Bot(2 bots)",
+        "Garnacho",
+        "DevastMod%20Bot",
         "Ukraina%20Love",
         "---",
         "ryry",
@@ -73,22 +74,22 @@
       ],
       "status": "Connected",
       "total_players": 10,
-      "last_parsed": "2025-06-24T03:13:43.227943"
+      "last_parsed": "2025-06-24T03:15:48.353262"
     },
     {
       "id": "lobby-mc3ilukn-deva9p6o",
       "region": "Frankfurt, Deutschland",
       "gamemode": "survival",
       "players": [
-        "DevastMod%20Bot(2 bots)",
+        "DevastMod%20Bot",
         "%D0%BA%D0%B0%D0%BB%D0%BE%D0%B5%D0%B4"
       ],
       "clans": [
         "DWD"
       ],
       "status": "Connected",
-      "total_players": 3,
-      "last_parsed": "2025-06-24T03:13:43.231736"
+      "total_players": 2,
+      "last_parsed": "2025-06-24T03:15:48.353021"
     },
     {
       "id": "lobby-mc3iltp3-udgl8jjk",
@@ -109,7 +110,7 @@
       ],
       "status": "Connected",
       "total_players": 117,
-      "last_parsed": "2025-06-24T03:13:45.481304"
+      "last_parsed": "2025-06-24T03:15:50.673011"
     },
     {
       "id": "lobby-mc3ilwax-ndie7fpg",
@@ -117,25 +118,24 @@
       "gamemode": "survival",
       "players": [
         "Yam",
-        "DevastMod%20Bot(2 bots)",
-        "stevenc"
+        "DevastMod%20Bot"
       ],
       "clans": [],
       "status": "Connected",
-      "total_players": 4,
-      "last_parsed": "2025-06-24T03:13:44.040843"
+      "total_players": 2,
+      "last_parsed": "2025-06-24T03:15:49.012932"
     },
     {
       "id": "lobby-mc3ilvou-mqyykcgd",
       "region": "Los Angeles, California",
       "gamemode": "survival",
       "players": [
-        "DevastMod%20Bot(2 bots)"
+        "DevastMod%20Bot"
       ],
       "clans": [],
       "status": "Connected",
-      "total_players": 2,
-      "last_parsed": "2025-06-24T03:13:43.839641"
+      "total_players": 1,
+      "last_parsed": "2025-06-24T03:15:49.010990"
     },
     {
       "id": "lobby-mc3ilwuw-ijlqcwl3",
@@ -147,31 +147,31 @@
       "clans": [],
       "status": "Connected",
       "total_players": 2,
-      "last_parsed": "2025-06-24T03:13:44.433021"
+      "last_parsed": "2025-06-24T03:15:49.575324"
     },
     {
       "id": "lobby-mc3ilzpa-w23cwwwf",
       "region": "Osaka, Japan",
       "gamemode": "survival",
       "players": [
-        "DevastMod%20Bot(2 bots)"
+        "DevastMod%20Bot"
       ],
       "clans": [],
       "status": "Connected",
-      "total_players": 2,
-      "last_parsed": "2025-06-24T03:13:44.316956"
+      "total_players": 1,
+      "last_parsed": "2025-06-24T03:15:49.693128"
     },
     {
       "id": "lobby-mc3ilyio-ua1yjwvr",
       "region": "Osaka, Japan",
       "gamemode": "survival",
       "players": [
-        "DevastMod%20Bot(2 bots)"
+        "DevastMod%20Bot"
       ],
       "clans": [],
       "status": "Connected",
-      "total_players": 2,
-      "last_parsed": "2025-06-24T03:13:44.316272"
+      "total_players": 1,
+      "last_parsed": "2025-06-24T03:15:49.666284"
     },
     {
       "id": "lobby-mc3im0nf-va7zewbu",
@@ -179,6 +179,7 @@
       "gamemode": "survival",
       "players": [
         "DevastMod%20Bot(2 bots)",
+        "%EA%A7%81%E0%A6%94%E0%A7%A3%E2%98%AC%E2%9C%9E%F0%9D%93%93%F0%9D%96%94%F0%9D%96%93%E2%9C%9E%E2%98%AC%E0%A6%94%E0%A7%A3%EA%A7%82",
         "%F0%9D%93%AE%F0%9D%93%B5%20%E2%84%AC%F0%9D%93%AE%F0%9D%95%9F%F0%9D%94%82%F0%9D%95%92",
         "ghoul%20mode6969"
       ],
@@ -186,8 +187,8 @@
         "UNITY"
       ],
       "status": "Connected",
-      "total_players": 4,
-      "last_parsed": "2025-06-24T03:13:43.677861"
+      "total_players": 5,
+      "last_parsed": "2025-06-24T03:15:48.913410"
     },
     {
       "id": "lobby-mc3im12d-pqpnpkuw",
@@ -196,15 +197,15 @@
       "players": [
         "doctor%20black",
         "%D0%B1%D0%B8%D0%BC%D0%B1%D0%B0.%20",
-        "DevastMod%20Bot(2 bots)",
+        "DevastMod%20Bot",
         "Ketchup"
       ],
       "clans": [
         "BLACK"
       ],
       "status": "Connected",
-      "total_players": 5,
-      "last_parsed": "2025-06-24T03:13:43.169177"
+      "total_players": 4,
+      "last_parsed": "2025-06-24T03:15:48.372764"
     }
   ]
 }
