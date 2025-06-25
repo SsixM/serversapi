@@ -7,29 +7,31 @@
       "players": [
         "dc.gg%2Fscript1(101 bots)",
         "%F0%9F%90%92%20%20%EF%BC%B7%F0%9D%90%8E%D1%8F%D0%BA%E2%93%94%C5%98%20%20%F0%9F%90%AF",
+        "vnombres123",
+        "Ppp4k",
         "_%F0%9D%92%A2%F0%9D%91%9C%F0%9D%93%81%F0%9D%92%B9%E2%98%95%EF%B8%8F_",
         "%F0%9F%96%A4InYourHeart%E2%99%A1",
         "%2332",
-        "vnombres123",
-        "Ppp4k",
+        "DevastMod%20Bot",
+        "Danielpipi",
         "Sarmiento",
         "TheShiro",
         "Jill",
         "Ninja%28spartan",
         "Brasa",
         "gaaa",
-        "DevastMod%20Bot",
         "%F0%9F%98%88H%D2%89A%D2%89C%D2%89K%D2%89E%D2%89R%D2%89%F0%9F%98%88",
         "GD"
       ],
       "clans": [
-        "JOIN(16)",
+        "JOIN(14)",
         "EZD",
-        "HOLA"
+        "HOLA",
+        "SARA"
       ],
       "status": "Connected",
-      "total_players": 116,
-      "last_parsed": "2025-06-25T21:42:09.902202"
+      "total_players": 117,
+      "last_parsed": "2025-06-25T21:44:15.474878"
     },
     {
       "id": "lobby-mc3ils9y-40tdl6qs",
@@ -45,7 +47,7 @@
       ],
       "status": "Connected",
       "total_players": 3,
-      "last_parsed": "2025-06-25T21:42:08.099262"
+      "last_parsed": "2025-06-25T21:44:13.998181"
     },
     {
       "id": "lobby-mc3ilrn8-6kmv6nmm",
@@ -59,33 +61,17 @@
       "clans": [],
       "status": "Connected",
       "total_players": 3,
-      "last_parsed": "2025-06-25T21:42:07.957062"
+      "last_parsed": "2025-06-25T21:44:13.780095"
     },
     {
       "id": "lobby-mc3ilv4e-qkqixhoy",
       "region": "Frankfurt, Deutschland",
       "gamemode": "survival",
-      "players": [
-        "dc.gg%2Fscript1(105 bots)",
-        "%201234",
-        "DevastMod%20Bot(2 bots)",
-        "%E2%81%BF%E1%B5%92%E1%B5%92%E1%B5%87%CB%A2%20%24%21Hl%21%24",
-        "%D0%BA%D0%B0%D1%82%D0%B5%D1%80",
-        "%E3%80%90%E2%84%B3%F0%9D%93%90%F0%9D%90%8A%F0%9D%90%92%E3%80%91%E3%80%90%E1%A6%93%F0%9D%93%AC%CF%81%E3%80%91",
-        "LEGENDA",
-        "%D0%A2%D0%B8%D0%BC%D0%B0%20%20%3A%28",
-        "%F0%90%8C%B8%E2%82%90%E1%B5%A3%E2%82%91%F0%9D%91%9B%E1%B5%8F%E1%B6%A4%CB%A1%CB%A1%20%CA%B8%E1%B5%92%E1%B5%98%E3%82%B7",
-        "%D1%8F%20%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%B8%D0%B9",
-        "%D0%B1%D0%B0%D0%B1%D1%83%D0%B8%D0%BD%20%D1%81%20%D0%BA%D0%BE%D0%BF%D1%8C%D0%B5%D0%BC",
-        "son%20deluxe"
-      ],
-      "clans": [
-        "JOIN(17)",
-        "SCP"
-      ],
-      "status": "Connected",
-      "total_players": 117,
-      "last_parsed": "2025-06-25T21:42:10.145497"
+      "players": [],
+      "clans": [],
+      "status": "FULL(No connectable)",
+      "total_players": 0,
+      "last_parsed": "2025-06-25T21:44:15.671129"
     },
     {
       "id": "lobby-mc3ilukn-deva9p6o",
@@ -95,22 +81,25 @@
       "clans": [],
       "status": "FULL(No connectable)",
       "total_players": 0,
-      "last_parsed": "2025-06-25T21:42:10.155744"
+      "last_parsed": "2025-06-25T21:44:15.701394"
     },
     {
       "id": "lobby-mc3iltp3-udgl8jjk",
       "region": "Frankfurt, Deutschland",
       "gamemode": "survival",
       "players": [
-        "dc.gg%2Fscript1(104 bots)",
+        "DevastMod%20Bot",
+        "dc.gg%2Fscript1(101 bots)",
         "Birisidst",
+        "damsy%20FR",
         "traxaloli",
         "%D0%B5%D0%B1%D0%B0%D0%BD%D1%83%D1%82%D0%B0%D1%8F%20%D0%BA%D0%B0%D1%82%D1%8F",
         "Garnacho",
-        "%40F2%2932DANI4KA%2A%28",
+        "tofu",
         "%D0%BF%D1%83%D0%B7%D0%B0%D1%82%D1%8B%D0%B9",
         "%D1%82%D0%BE%D1%80%D1%8F%D0%BD%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BA%D0%BE%D0%BD%D1%8C",
-        "DevastMod%20Bot",
+        "rafik",
+        "%E2%9B%93%20%F0%9F%92%AF%F0%90%8D%83c%F0%9D%98%A2%C5%95%CA%88%E2%9B%93",
         "%E6%84%9B%F0%9D%95%8A%F0%9D%9F%8F%D0%BF%D0%B8%D0%B7%D0%B4%D0%BE%D1%85%D1%83%D1%8F%D0%BD%D1%8C",
         "Ruski",
         "%D8%9B%D8%96%E4%BA%A5%E2%82%B7%D7%90%CC%BDi%CD%8B%C8%B4%C8%B4%E2%B0%AE%E1%BE%B4%CA%82%E2%9A%94",
@@ -119,12 +108,13 @@
       ],
       "clans": [
         "SOSKI",
-        "JOIN(16)",
-        "ZXC"
+        "JOIN(15)",
+        "ZXC",
+        "KC33"
       ],
       "status": "Connected",
       "total_players": 117,
-      "last_parsed": "2025-06-25T21:42:07.629337"
+      "last_parsed": "2025-06-25T21:44:13.265261"
     },
     {
       "id": "lobby-mc3ilwax-ndie7fpg",
@@ -150,7 +140,7 @@
       ],
       "status": "Connected",
       "total_players": 9,
-      "last_parsed": "2025-06-25T21:42:08.257053"
+      "last_parsed": "2025-06-25T21:44:14.043467"
     },
     {
       "id": "lobby-mc3ilvou-mqyykcgd",
@@ -164,20 +154,19 @@
       "clans": [],
       "status": "Connected",
       "total_players": 3,
-      "last_parsed": "2025-06-25T21:42:08.360132"
+      "last_parsed": "2025-06-25T21:44:14.203371"
     },
     {
       "id": "lobby-mc3ilwuw-ijlqcwl3",
       "region": "Sydney, Australia",
       "gamemode": "survival",
       "players": [
-        "DevastMod%20Bot(2 bots)",
-        "zdanov"
+        "DevastMod%20Bot"
       ],
       "clans": [],
       "status": "Connected",
-      "total_players": 3,
-      "last_parsed": "2025-06-25T21:42:09.309353"
+      "total_players": 1,
+      "last_parsed": "2025-06-25T21:44:14.604156"
     },
     {
       "id": "lobby-mc3ilzpa-w23cwwwf",
@@ -186,7 +175,6 @@
       "players": [
         "DevastMod%20Bot",
         "toxic",
-        "zdanov",
         "KILL%20YOU%20",
         "HCDJ"
       ],
@@ -194,21 +182,20 @@
         "TT"
       ],
       "status": "Connected",
-      "total_players": 5,
-      "last_parsed": "2025-06-25T21:42:08.790732"
+      "total_players": 4,
+      "last_parsed": "2025-06-25T21:44:14.554554"
     },
     {
       "id": "lobby-mc3ilyio-ua1yjwvr",
       "region": "Osaka, Japan",
       "gamemode": "survival",
       "players": [
-        "DevastMod%20Bot",
-        "zdanov"
+        "DevastMod%20Bot"
       ],
       "clans": [],
       "status": "Connected",
-      "total_players": 2,
-      "last_parsed": "2025-06-25T21:42:08.790489"
+      "total_players": 1,
+      "last_parsed": "2025-06-25T21:44:14.563652"
     },
     {
       "id": "lobby-mc3im0nf-va7zewbu",
@@ -219,7 +206,7 @@
         "XP%20man",
         "Mateo",
         "damsy%20FR",
-        "Equipo%20pto",
+        "%40F2%2932DANI4KA%2A%28",
         "%EA%A7%81%E0%BC%92%E2%98%AC%F0%9D%93%A3%F0%9D%93%A2%F0%9D%93%9C%E2%98%AC%E0%BC%92%EA%A7%82",
         "%F0%9F%90%B1%E2%80%8D%F0%9F%91%A4russ%E2%9C%A8",
         "DevastMod%20Bot(2 bots)",
@@ -232,7 +219,7 @@
       ],
       "status": "Connected",
       "total_players": 10,
-      "last_parsed": "2025-06-25T21:42:08.041089"
+      "last_parsed": "2025-06-25T21:44:13.614858"
     },
     {
       "id": "lobby-mc3im12d-pqpnpkuw",
@@ -240,11 +227,12 @@
       "gamemode": "survival",
       "players": [
         "%D0%B8%D0%BC%D0%BF%D0%B5%D1%80%D0%B0%D1%82%D0%BE%D1%80%20%D1%81%D0%B5%D0%BA%D1%81%D0%B0",
-        "dc.gg%2Fscript1(109 bots)",
+        "dc.gg%2Fscript1(105 bots)",
         "%E2%96%84%EF%B8%BB%E3%83%87%E2%95%90%E2%95%90%E2%94%81%E4%B8%80%F0%9D%93%AF%F0%9D%93%BB%F0%9D%93%AE%F0%9D%93%AA",
         "%20%E2%80%A2%F0%9D%93%BC%F0%9D%93%B8%F0%9D%93%B1%F0%9D%93%AA%F0%9D%93%B2%F0%9D%93%AB%E2%80%A2",
         "%D0%BF%D0%B8%D0%B4%D0%BE%D1%84%D0%B8%D0%BB",
         "PRO_POLPOK",
+        "EVI%20%F0%9D%95%9B%F0%9D%94%BC%F0%9D%95%A4%F0%9D%95%8B%F0%9D%95%96%E2%84%9D",
         "%EA%A7%81%E1%8E%B7%E0%B8%A8%D2%92%E0%B9%80%E0%B8%AA%EA%A7%82",
         "kles%20%20%20%F0%9F%A5%9F",
         "DevastMod%20Bot",
@@ -252,12 +240,12 @@
         "SK%7CLENAIN"
       ],
       "clans": [
-        "JOIN(17)",
+        "JOIN(16)",
         "MAFIA"
       ],
       "status": "Connected",
-      "total_players": 119,
-      "last_parsed": "2025-06-25T21:42:09.049965"
+      "total_players": 116,
+      "last_parsed": "2025-06-25T21:44:13.305129"
     }
   ]
 }
