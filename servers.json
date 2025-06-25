@@ -5,33 +5,33 @@
       "region": "Atlanta, Georgia",
       "gamemode": "survival",
       "players": [
-        "DevastMod%20Bot(2 bots)",
+        "porni",
         "%E1%B4%B3%E1%B5%92%E1%B5%88%E6%BC%A2%E1%8E%AA%F0%9D%90%8D%E1%8E%B6%E1%8E%AC%E1%8F%9E%E6%BC%A2%E1%B4%B3%E1%B5%92",
-        "%20%F0%9D%92%87%F0%9D%92%911",
+        "DevastMod%20Bot(2 bots)",
         "mencchio4",
         "%F0%9F%90%89%E2%99%A6%20%20%F0%9D%94%80%CE%AC%E2%84%A4%E1%B5%83%20%20%E2%98%9C%F0%9F%92%A5",
         "%C9%AE%D3%84%C7%9F%C9%AE%CA%8F%C9%A2%C9%9B%D5%BC%C9%9B%CA%80%C7%9F%CA%9F",
         "Jos%C3%A9%20LTX",
+        "Pancracio",
         "ernesto",
         "%F0%9F%90%92%20%20%EF%BC%B7%F0%9D%90%8E%D1%8F%D0%BA%E2%93%94%C5%98%20%20%F0%9F%90%AF",
         "%20%E2%98%A5",
         "L%CC%B3-%CC%B3l%CC%B3i%CC%B3a%CC%B3",
         "%EF%B8%8E",
-        "jair",
-        "Mickael",
+        "%EA%A7%81%E0%BC%92%E2%98%AC%E2%98%A0%C8%BD%EF%B8%8E%C3%99%C3%A7%D2%9C%E1%83%A7%E2%98%A0%EF%B8%8E%E2%98%AC%E0%BC%92%EA%A7%82",
         "qe.chiken",
         "Pajardos",
         "Takelo"
       ],
       "clans": [
-        "LS",
+        "SS",
         "A",
         "93",
         "LTX"
       ],
       "status": "Connected",
       "total_players": 18,
-      "last_parsed": "2025-06-25T05:39:33.563711"
+      "last_parsed": "2025-06-25T05:41:39.230552"
     },
     {
       "id": "lobby-mc3ils9y-40tdl6qs",
@@ -39,6 +39,7 @@
       "gamemode": "survival",
       "players": [
         "DevastMod%20Bot",
+        "lil%20bro",
         "ioil",
         "HBOS"
       ],
@@ -46,8 +47,8 @@
         "TEAM"
       ],
       "status": "Connected",
-      "total_players": 3,
-      "last_parsed": "2025-06-25T05:39:33.550444"
+      "total_players": 4,
+      "last_parsed": "2025-06-25T05:41:39.323781"
     },
     {
       "id": "lobby-mc3ilrn8-6kmv6nmm",
@@ -60,7 +61,7 @@
       "clans": [],
       "status": "Connected",
       "total_players": 2,
-      "last_parsed": "2025-06-25T05:39:33.672545"
+      "last_parsed": "2025-06-25T05:41:39.316681"
     },
     {
       "id": "lobby-mc3ilv4e-qkqixhoy",
@@ -85,7 +86,7 @@
       ],
       "status": "Connected",
       "total_players": 10,
-      "last_parsed": "2025-06-25T05:39:33.050205"
+      "last_parsed": "2025-06-25T05:41:38.885397"
     },
     {
       "id": "lobby-mc3ilukn-deva9p6o",
@@ -95,7 +96,7 @@
       "clans": [],
       "status": "FULL(No connectable)",
       "total_players": 0,
-      "last_parsed": "2025-06-25T05:39:35.340507"
+      "last_parsed": "2025-06-25T05:41:41.157389"
     },
     {
       "id": "lobby-mc3iltp3-udgl8jjk",
@@ -112,7 +113,7 @@
       ],
       "status": "Connected",
       "total_players": 4,
-      "last_parsed": "2025-06-25T05:39:33.119732"
+      "last_parsed": "2025-06-25T05:41:38.917404"
     },
     {
       "id": "lobby-mc3ilwax-ndie7fpg",
@@ -121,6 +122,7 @@
       "players": [
         "DevastMod%20Bot",
         "leonardo",
+        "Reddit",
         "VALENTIN"
       ],
       "clans": [
@@ -128,8 +130,8 @@
         "GIRL"
       ],
       "status": "Connected",
-      "total_players": 3,
-      "last_parsed": "2025-06-25T05:39:33.927400"
+      "total_players": 4,
+      "last_parsed": "2025-06-25T05:41:39.330740"
     },
     {
       "id": "lobby-mc3ilvou-mqyykcgd",
@@ -145,48 +147,51 @@
       ],
       "status": "Connected",
       "total_players": 3,
-      "last_parsed": "2025-06-25T05:39:33.912694"
+      "last_parsed": "2025-06-25T05:41:39.363872"
     },
     {
       "id": "lobby-mc3ilwuw-ijlqcwl3",
       "region": "Sydney, Australia",
       "gamemode": "survival",
       "players": [
+        "DevastMod%20Bot(2 bots)",
+        "porni",
         "Enemy%3F%2FO%2Ffriend%3F",
-        "DevastMod%20Bot(2 bots)"
+        "Reddit"
       ],
       "clans": [],
       "status": "Connected",
-      "total_players": 3,
-      "last_parsed": "2025-06-25T05:39:34.654790"
+      "total_players": 5,
+      "last_parsed": "2025-06-25T05:41:40.078598"
     },
     {
       "id": "lobby-mc3ilzpa-w23cwwwf",
       "region": "Osaka, Japan",
       "gamemode": "survival",
       "players": [
+        "Reddit",
         "MONOMON",
         "DevastMod%20Bot"
       ],
       "clans": [],
       "status": "Connected",
-      "total_players": 2,
-      "last_parsed": "2025-06-25T05:39:34.182232"
+      "total_players": 3,
+      "last_parsed": "2025-06-25T05:41:40.002455"
     },
     {
       "id": "lobby-mc3ilyio-ua1yjwvr",
       "region": "Osaka, Japan",
       "gamemode": "survival",
       "players": [
-        "porni",
-        "gigvang",
+        "toto",
+        "Reddit",
         "RelZz",
         "DevastMod%20Bot"
       ],
       "clans": [],
       "status": "Connected",
       "total_players": 4,
-      "last_parsed": "2025-06-25T05:39:34.474316"
+      "last_parsed": "2025-06-25T05:41:40.253570"
     },
     {
       "id": "lobby-mc3im0nf-va7zewbu",
@@ -200,7 +205,7 @@
       "clans": [],
       "status": "Connected",
       "total_players": 4,
-      "last_parsed": "2025-06-25T05:39:33.598010"
+      "last_parsed": "2025-06-25T05:41:39.119873"
     },
     {
       "id": "lobby-mc3im12d-pqpnpkuw",
@@ -217,7 +222,7 @@
       ],
       "status": "Connected",
       "total_players": 4,
-      "last_parsed": "2025-06-25T05:39:33.125214"
+      "last_parsed": "2025-06-25T05:41:38.914506"
     }
   ]
 }
