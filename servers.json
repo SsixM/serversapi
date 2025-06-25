@@ -5,9 +5,11 @@
       "region": "Atlanta, Georgia",
       "gamemode": "survival",
       "players": [
+        "mencchio4",
         "Jill",
         "%E1%B4%B3%E1%B5%92%E1%B5%88%E6%BC%A2%E1%8E%AA%F0%9D%90%8D%E1%8E%B6%E1%8E%AC%E1%8F%9E%E6%BC%A2%E1%B4%B3%E1%B5%92",
-        "adrian",
+        "DevastMod%20Bot(2 bots)",
+        "porni",
         "lol",
         "%C9%AE%D3%84%C7%9F%C9%AE%CA%8F%C9%A2%C9%9B%D5%BC%C9%9B%CA%80%C7%9F%CA%9F",
         "smile",
@@ -19,18 +21,15 @@
         "%20%E2%98%A5",
         "L%CC%B3-%CC%B3l%CC%B3i%CC%B3a%CC%B3",
         "jair",
-        "DevastMod%20Bot",
-        "Pajardos",
-        "%20%F0%9D%92%87%F0%9D%92%911"
+        "Pajardos"
       ],
       "clans": [
         "LS",
-        "TEAM",
         "93"
       ],
       "status": "Connected",
-      "total_players": 17,
-      "last_parsed": "2025-06-25T05:01:49.293912"
+      "total_players": 18,
+      "last_parsed": "2025-06-25T05:03:55.795091"
     },
     {
       "id": "lobby-mc3ils9y-40tdl6qs",
@@ -43,7 +42,7 @@
       "clans": [],
       "status": "Connected",
       "total_players": 3,
-      "last_parsed": "2025-06-25T05:01:49.483831"
+      "last_parsed": "2025-06-25T05:03:55.778391"
     },
     {
       "id": "lobby-mc3ilrn8-6kmv6nmm",
@@ -58,7 +57,7 @@
       ],
       "status": "Connected",
       "total_players": 3,
-      "last_parsed": "2025-06-25T05:01:49.295991"
+      "last_parsed": "2025-06-25T05:03:55.897024"
     },
     {
       "id": "lobby-mc3ilv4e-qkqixhoy",
@@ -81,7 +80,7 @@
       ],
       "status": "Connected",
       "total_players": 10,
-      "last_parsed": "2025-06-25T05:01:48.946964"
+      "last_parsed": "2025-06-25T05:03:55.402597"
     },
     {
       "id": "lobby-mc3ilukn-deva9p6o",
@@ -91,7 +90,7 @@
       "clans": [],
       "status": "FULL(No connectable)",
       "total_players": 0,
-      "last_parsed": "2025-06-25T05:01:51.195291"
+      "last_parsed": "2025-06-25T05:03:57.586967"
     },
     {
       "id": "lobby-mc3iltp3-udgl8jjk",
@@ -109,7 +108,7 @@
       ],
       "status": "Connected",
       "total_players": 6,
-      "last_parsed": "2025-06-25T05:01:48.838057"
+      "last_parsed": "2025-06-25T05:03:55.394602"
     },
     {
       "id": "lobby-mc3ilwax-ndie7fpg",
@@ -122,11 +121,11 @@
       ],
       "clans": [
         "W",
-        "VOID"
+        "GIRL"
       ],
       "status": "Connected",
       "total_players": 4,
-      "last_parsed": "2025-06-25T05:01:49.739809"
+      "last_parsed": "2025-06-25T05:03:56.200803"
     },
     {
       "id": "lobby-mc3ilvou-mqyykcgd",
@@ -135,26 +134,27 @@
       "players": [
         "Blick",
         "DevastMod%20Bot(2 bots)",
-        "Und3rpr3ssur3"
+        "Und3rpr3ssur3",
+        "%F0%9F%AA%B7%F0%9D%95%83%F0%9D%95%A0%F0%9D%95%A5%F0%9D%95%A6%F0%9D%95%A4%F0%9F%AA%B7"
       ],
       "clans": [],
       "status": "Connected",
-      "total_players": 4,
-      "last_parsed": "2025-06-25T05:01:49.711664"
+      "total_players": 5,
+      "last_parsed": "2025-06-25T05:03:55.971496"
     },
     {
       "id": "lobby-mc3ilwuw-ijlqcwl3",
       "region": "Sydney, Australia",
       "gamemode": "survival",
       "players": [
-        "DevastMod%20Bot",
+        "DevastMod%20Bot(2 bots)",
         "Enemy%3F%2FO%2Ffriend%3F",
         "zart"
       ],
       "clans": [],
       "status": "Connected",
-      "total_players": 3,
-      "last_parsed": "2025-06-25T05:01:50.075312"
+      "total_players": 4,
+      "last_parsed": "2025-06-25T05:03:56.910623"
     },
     {
       "id": "lobby-mc3ilzpa-w23cwwwf",
@@ -174,7 +174,7 @@
       ],
       "status": "Connected",
       "total_players": 7,
-      "last_parsed": "2025-06-25T05:01:50.037550"
+      "last_parsed": "2025-06-25T05:03:56.436440"
     },
     {
       "id": "lobby-mc3ilyio-ua1yjwvr",
@@ -187,7 +187,7 @@
       "clans": [],
       "status": "Connected",
       "total_players": 3,
-      "last_parsed": "2025-06-25T05:01:50.036202"
+      "last_parsed": "2025-06-25T05:03:56.435856"
     },
     {
       "id": "lobby-mc3im0nf-va7zewbu",
@@ -203,7 +203,7 @@
       ],
       "status": "Connected",
       "total_players": 3,
-      "last_parsed": "2025-06-25T05:01:49.341879"
+      "last_parsed": "2025-06-25T05:03:55.929051"
     },
     {
       "id": "lobby-mc3im12d-pqpnpkuw",
@@ -219,7 +219,7 @@
       ],
       "status": "Connected",
       "total_players": 4,
-      "last_parsed": "2025-06-25T05:01:48.945364"
+      "last_parsed": "2025-06-25T05:03:55.395301"
     }
   ]
 }
