@@ -26,14 +26,11 @@
         "amigoxpes"
       ],
       "clans": [
-        "HTRSS",
-        "DC",
-        "XD",
-        "VNOMB"
+        "No clans received"
       ],
       "status": "Connected",
       "total_players": 20,
-      "last_parsed": "2025-06-25T22:53:51.810431"
+      "last_parsed": "2025-06-25T22:56:07.574446"
     },
     {
       "id": "lobby-mc3ils9y-40tdl6qs",
@@ -49,11 +46,11 @@
         "wassi"
       ],
       "clans": [
-        "LOL"
+        "No clans received"
       ],
       "status": "Connected",
       "total_players": 8,
-      "last_parsed": "2025-06-25T22:53:52.153869"
+      "last_parsed": "2025-06-25T22:56:07.590118"
     },
     {
       "id": "lobby-mc3ilrn8-6kmv6nmm",
@@ -67,10 +64,12 @@
         "lil%20bro",
         "%D8%A7%D9%86%D8%A7"
       ],
-      "clans": [],
+      "clans": [
+        "No clans received"
+      ],
       "status": "Connected",
       "total_players": 7,
-      "last_parsed": "2025-06-25T22:53:52.002962"
+      "last_parsed": "2025-06-25T22:56:07.562585"
     },
     {
       "id": "lobby-mc3ilv4e-qkqixhoy",
@@ -97,24 +96,23 @@
         "%E3%80%90%E2%84%B3%F0%9D%93%90%F0%9D%90%8A%F0%9D%90%92%E3%80%91%E3%80%90%E1%A6%93%F0%9D%93%AC%CF%81%E3%80%91"
       ],
       "clans": [
-        "SCP",
-        "LOL",
-        "AADDA",
-        "NOOBS"
+        "No clans received"
       ],
       "status": "Connected",
       "total_players": 19,
-      "last_parsed": "2025-06-25T22:53:51.458193"
+      "last_parsed": "2025-06-25T22:56:07.362431"
     },
     {
       "id": "lobby-mc3ilukn-deva9p6o",
       "region": "Frankfurt, Deutschland",
       "gamemode": "survival",
       "players": [],
-      "clans": [],
-      "status": "FULL(No connectable)",
+      "clans": [
+        "No clans received"
+      ],
+      "status": "Connected",
       "total_players": 0,
-      "last_parsed": "2025-06-25T22:53:53.818071"
+      "last_parsed": "2025-06-25T22:56:07.363101"
     },
     {
       "id": "lobby-mc3iltp3-udgl8jjk",
@@ -142,14 +140,11 @@
         "Garnacho2"
       ],
       "clans": [
-        "SOSKI",
-        "QQQQQ",
-        "MOTEL",
-        "AMCIK"
+        "No clans received"
       ],
       "status": "Connected",
       "total_players": 19,
-      "last_parsed": "2025-06-25T22:53:51.528161"
+      "last_parsed": "2025-06-25T22:56:07.362776"
     },
     {
       "id": "lobby-mc3ilwax-ndie7fpg",
@@ -163,11 +158,11 @@
         "Darkestx_xvoid"
       ],
       "clans": [
-        "DARK"
+        "No clans received"
       ],
       "status": "Connected",
       "total_players": 6,
-      "last_parsed": "2025-06-25T22:53:52.428703"
+      "last_parsed": "2025-06-25T22:56:07.667128"
     },
     {
       "id": "lobby-mc3ilvou-mqyykcgd",
@@ -181,11 +176,11 @@
         "pepe_xd"
       ],
       "clans": [
-        "XD"
+        "No clans received"
       ],
       "status": "Connected",
       "total_players": 6,
-      "last_parsed": "2025-06-25T22:53:52.169656"
+      "last_parsed": "2025-06-25T22:56:07.699642"
     },
     {
       "id": "lobby-mc3ilwuw-ijlqcwl3",
@@ -195,10 +190,12 @@
         "DevastMod%20Bot(2 bots)",
         "Enemy%3F%2FO%2Ffriend%3F"
       ],
-      "clans": [],
+      "clans": [
+        "No clans received"
+      ],
       "status": "Connected",
       "total_players": 3,
-      "last_parsed": "2025-06-25T22:53:53.062231"
+      "last_parsed": "2025-06-25T22:56:08.339206"
     },
     {
       "id": "lobby-mc3ilzpa-w23cwwwf",
@@ -210,11 +207,11 @@
         "KILL%20YOU%20"
       ],
       "clans": [
-        "TT"
+        "No clans received"
       ],
       "status": "Connected",
       "total_players": 4,
-      "last_parsed": "2025-06-25T22:53:52.958285"
+      "last_parsed": "2025-06-25T22:56:08.208619"
     },
     {
       "id": "lobby-mc3ilyio-ua1yjwvr",
@@ -223,10 +220,12 @@
       "players": [
         "DevastMod%20Bot(2 bots)"
       ],
-      "clans": [],
+      "clans": [
+        "No clans received"
+      ],
       "status": "Connected",
       "total_players": 2,
-      "last_parsed": "2025-06-25T22:53:52.863987"
+      "last_parsed": "2025-06-25T22:56:07.927478"
     },
     {
       "id": "lobby-mc3im0nf-va7zewbu",
@@ -241,11 +240,11 @@
         "%E2%9D%A6%E2%94%8A%E1%B4%80%E1%B4%8D%E1%B4%98%EF%BE%A0%7C%EF%BE%A0s%E1%B4%9C%E1%B4%98%E1%B4%80%E1%B4%98%E1%B4%80%E2%99%9B"
       ],
       "clans": [
-        "AD"
+        "No clans received"
       ],
       "status": "Connected",
       "total_players": 6,
-      "last_parsed": "2025-06-25T22:53:52.161759"
+      "last_parsed": "2025-06-25T22:56:07.593621"
     },
     {
       "id": "lobby-mc3im12d-pqpnpkuw",
@@ -259,11 +258,11 @@
         "%E1%B4%87%F0%9D%90%99%E1%B4%8F%E1%B4%84%EA%9C%B1%20%E3%83%A1"
       ],
       "clans": [
-        "TXT"
+        "No clans received"
       ],
       "status": "Connected",
       "total_players": 6,
-      "last_parsed": "2025-06-25T22:53:51.588529"
+      "last_parsed": "2025-06-25T22:56:07.362951"
     }
   ]
 }
