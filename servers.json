@@ -14,7 +14,6 @@
         "%F0%9F%90%92%20%20%EF%BC%B7%F0%9D%90%8E%D1%8F%D0%BA%E2%93%94%C5%98%20%20%F0%9F%90%AF",
         "%F0%9F%90%89%E2%99%A6%20%20%F0%9D%94%80%CE%AC%E2%84%A4%E1%B5%83%20%20%E2%98%9C%F0%9F%92%A5",
         "mencchio4",
-        "survival%20guy",
         "listserver",
         "Takelo",
         "%E3%80%90%E1%97%AA%F0%9D%96%9As%E2%80%A0%CA%8F%E3%80%91%E2%80%AE",
@@ -26,8 +25,8 @@
         "GOOD"
       ],
       "status": "Connected",
-      "total_players": 14,
-      "last_parsed": "2025-06-25T06:48:40.330250"
+      "total_players": 13,
+      "last_parsed": "2025-06-25T06:50:45.976919"
     },
     {
       "id": "lobby-mc3ils9y-40tdl6qs",
@@ -44,7 +43,7 @@
       ],
       "status": "Connected",
       "total_players": 5,
-      "last_parsed": "2025-06-25T06:48:40.282720"
+      "last_parsed": "2025-06-25T06:50:45.993860"
     },
     {
       "id": "lobby-mc3ilrn8-6kmv6nmm",
@@ -56,7 +55,7 @@
       "clans": [],
       "status": "Connected",
       "total_players": 2,
-      "last_parsed": "2025-06-25T06:48:40.305628"
+      "last_parsed": "2025-06-25T06:50:45.949203"
     },
     {
       "id": "lobby-mc3ilv4e-qkqixhoy",
@@ -78,7 +77,7 @@
       ],
       "status": "Connected",
       "total_players": 9,
-      "last_parsed": "2025-06-25T06:48:40.037285"
+      "last_parsed": "2025-06-25T06:50:45.564448"
     },
     {
       "id": "lobby-mc3ilukn-deva9p6o",
@@ -88,7 +87,7 @@
       "clans": [],
       "status": "FULL(No connectable)",
       "total_players": 0,
-      "last_parsed": "2025-06-25T06:48:42.312846"
+      "last_parsed": "2025-06-25T06:50:47.749079"
     },
     {
       "id": "lobby-mc3iltp3-udgl8jjk",
@@ -106,7 +105,7 @@
       ],
       "status": "Connected",
       "total_players": 6,
-      "last_parsed": "2025-06-25T06:48:40.035194"
+      "last_parsed": "2025-06-25T06:50:45.498902"
     },
     {
       "id": "lobby-mc3ilwax-ndie7fpg",
@@ -114,15 +113,14 @@
       "gamemode": "survival",
       "players": [
         "%EA%A7%81%E2%9A%93%E2%84%98%F0%9D%92%BE%E2%84%9B%F0%9D%93%AA%F0%9D%93%89%F0%9D%91%92%EA%A7%82xd",
-        "helper",
         "DevastMod%20Bot(2 bots)"
       ],
       "clans": [
         "ZEE"
       ],
       "status": "Connected",
-      "total_players": 4,
-      "last_parsed": "2025-06-25T06:48:40.466593"
+      "total_players": 3,
+      "last_parsed": "2025-06-25T06:50:46.325323"
     },
     {
       "id": "lobby-mc3ilvou-mqyykcgd",
@@ -140,7 +138,7 @@
       ],
       "status": "Connected",
       "total_players": 6,
-      "last_parsed": "2025-06-25T06:48:40.705196"
+      "last_parsed": "2025-06-25T06:50:46.347723"
     },
     {
       "id": "lobby-mc3ilwuw-ijlqcwl3",
@@ -156,7 +154,7 @@
       ],
       "status": "Connected",
       "total_players": 3,
-      "last_parsed": "2025-06-25T06:48:41.245925"
+      "last_parsed": "2025-06-25T06:50:46.747527"
     },
     {
       "id": "lobby-mc3ilzpa-w23cwwwf",
@@ -169,7 +167,7 @@
       "clans": [],
       "status": "Connected",
       "total_players": 3,
-      "last_parsed": "2025-06-25T06:48:41.184566"
+      "last_parsed": "2025-06-25T06:50:46.874486"
     },
     {
       "id": "lobby-mc3ilyio-ua1yjwvr",
@@ -186,7 +184,7 @@
       ],
       "status": "Connected",
       "total_players": 5,
-      "last_parsed": "2025-06-25T06:48:41.374162"
+      "last_parsed": "2025-06-25T06:50:46.865686"
     },
     {
       "id": "lobby-mc3im0nf-va7zewbu",
@@ -198,7 +196,7 @@
       "clans": [],
       "status": "Connected",
       "total_players": 2,
-      "last_parsed": "2025-06-25T06:48:40.331405"
+      "last_parsed": "2025-06-25T06:50:46.052171"
     },
     {
       "id": "lobby-mc3im12d-pqpnpkuw",
@@ -206,15 +204,14 @@
       "gamemode": "survival",
       "players": [
         "HyRa",
-        "DevastMod%20Bot(2 bots)",
-        "Gillette"
+        "DevastMod%20Bot(2 bots)"
       ],
       "clans": [
         "SSS"
       ],
       "status": "Connected",
-      "total_players": 4,
-      "last_parsed": "2025-06-25T06:48:40.061192"
+      "total_players": 3,
+      "last_parsed": "2025-06-25T06:50:45.564777"
     }
   ]
 }
