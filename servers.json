@@ -6,6 +6,7 @@
       "gamemode": "survival",
       "players": [
         "DevastMod%20Bot(2 bots)",
+        "Jos%C3%A9%20LTX",
         "%C9%AE%D3%84%C7%9F%C9%AE%CA%8F%C9%A2%C9%9B%D5%BC%C9%9B%CA%80%C7%9F%CA%9F",
         "%EF%B8%8E",
         "%F0%9F%90%92%20%20%EF%BC%B7%F0%9D%90%8E%D1%8F%D0%BA%E2%93%94%C5%98%20%20%F0%9F%90%AF",
@@ -21,41 +22,42 @@
         "DDAWW",
         "TEAM",
         "AA",
-        "93"
+        "93",
+        "GOOD"
       ],
       "status": "Connected",
-      "total_players": 12,
-      "last_parsed": "2025-06-25T06:40:17.577827"
+      "total_players": 13,
+      "last_parsed": "2025-06-25T06:42:22.817498"
     },
     {
       "id": "lobby-mc3ils9y-40tdl6qs",
       "region": "Atlanta, Georgia",
       "gamemode": "survival",
       "players": [
-        "DevastMod%20Bot(2 bots)",
         "porni",
         "%E3%80%8E%F0%9D%93%A1%F0%9D%93%A3%F0%9D%93%A7%E3%80%8F%F0%9D%99%881000",
         "ioil",
-        "HBOS"
+        "HBOS",
+        "DevastMod%20Bot"
       ],
       "clans": [
         "TEAM"
       ],
       "status": "Connected",
-      "total_players": 6,
-      "last_parsed": "2025-06-25T06:40:17.578209"
+      "total_players": 5,
+      "last_parsed": "2025-06-25T06:42:22.785193"
     },
     {
       "id": "lobby-mc3ilrn8-6kmv6nmm",
       "region": "Atlanta, Georgia",
       "gamemode": "survival",
       "players": [
-        "DevastMod%20Bot(2 bots)"
+        "DevastMod%20Bot"
       ],
       "clans": [],
       "status": "Connected",
-      "total_players": 2,
-      "last_parsed": "2025-06-25T06:40:17.652172"
+      "total_players": 1,
+      "last_parsed": "2025-06-25T06:42:22.729181"
     },
     {
       "id": "lobby-mc3ilv4e-qkqixhoy",
@@ -64,10 +66,11 @@
       "players": [
         "%E1%B5%89%E1%B5%9B%E2%81%B1%F0%9F%86%81%F0%9F%85%B4%F0%9F%85%B0%F0%9F%85%BB%C2%A5%E2%82%AE%E1%B5%88%E1%B5%87%CB%A2",
         "AutoCOde",
-        "DevastMod%20Bot(2 bots)",
+        "Herkof",
         "snicers",
         "%F0%93%86%A9%EA%9E%A8%C4%A7%E2%B1%A5%C4%91%C4%93%F0%93%86%AA",
         "%D0%BB%D0%B5%D0%BD%D0%B8%D0%BD",
+        "DevastMod%20Bot",
         "diyar%20BOSS"
       ],
       "clans": [
@@ -76,7 +79,7 @@
       ],
       "status": "Connected",
       "total_players": 8,
-      "last_parsed": "2025-06-25T06:40:17.142292"
+      "last_parsed": "2025-06-25T06:42:22.484784"
     },
     {
       "id": "lobby-mc3ilukn-deva9p6o",
@@ -86,7 +89,7 @@
       "clans": [],
       "status": "FULL(No connectable)",
       "total_players": 0,
-      "last_parsed": "2025-06-25T06:40:19.357346"
+      "last_parsed": "2025-06-25T06:42:24.740506"
     },
     {
       "id": "lobby-mc3iltp3-udgl8jjk",
@@ -104,7 +107,7 @@
       ],
       "status": "Connected",
       "total_players": 6,
-      "last_parsed": "2025-06-25T06:40:17.078610"
+      "last_parsed": "2025-06-25T06:42:22.491501"
     },
     {
       "id": "lobby-mc3ilwax-ndie7fpg",
@@ -113,21 +116,21 @@
       "players": [
         "%EA%A7%81%E2%9A%93%E2%84%98%F0%9D%92%BE%E2%84%9B%F0%9D%93%AA%F0%9D%93%89%F0%9D%91%92%EA%A7%82xd",
         "helper",
-        "DevastMod%20Bot(2 bots)"
+        "DevastMod%20Bot"
       ],
       "clans": [
         "ZEE"
       ],
       "status": "Connected",
-      "total_players": 4,
-      "last_parsed": "2025-06-25T06:40:17.718416"
+      "total_players": 3,
+      "last_parsed": "2025-06-25T06:42:23.334339"
     },
     {
       "id": "lobby-mc3ilvou-mqyykcgd",
       "region": "Los Angeles, California",
       "gamemode": "survival",
       "players": [
-        "DevastMod%20Bot(2 bots)",
+        "DevastMod%20Bot",
         "Blick",
         "...",
         "Und3rpr3ssur3",
@@ -137,8 +140,8 @@
         "TG"
       ],
       "status": "Connected",
-      "total_players": 6,
-      "last_parsed": "2025-06-25T06:40:17.813607"
+      "total_players": 5,
+      "last_parsed": "2025-06-25T06:42:23.296452"
     },
     {
       "id": "lobby-mc3ilwuw-ijlqcwl3",
@@ -146,25 +149,27 @@
       "gamemode": "survival",
       "players": [
         "DevastMod%20Bot(2 bots)",
-        "Enemy%3F%2FO%2Ffriend%3F"
+        "Enemy%3F%2FO%2Ffriend%3F",
+        "%D0%BA%D1%83%D0%BF%D0%BA%D1%83"
       ],
       "clans": [],
       "status": "Connected",
-      "total_players": 3,
-      "last_parsed": "2025-06-25T06:40:18.292246"
+      "total_players": 4,
+      "last_parsed": "2025-06-25T06:42:23.703159"
     },
     {
       "id": "lobby-mc3ilzpa-w23cwwwf",
       "region": "Osaka, Japan",
       "gamemode": "survival",
       "players": [
-        "DevastMod%20Bot(2 bots)",
-        "maru"
+        "%E4%B9%82s%E1%B4%9B%E1%B4%80%CA%80%E2%9C%A6%E1%B4%9C%CA%9F%E1%B4%9B%CA%80%E1%B4%80%E4%B9%82",
+        "maru",
+        "DevastMod%20Bot"
       ],
       "clans": [],
       "status": "Connected",
       "total_players": 3,
-      "last_parsed": "2025-06-25T06:40:18.192819"
+      "last_parsed": "2025-06-25T06:42:23.590335"
     },
     {
       "id": "lobby-mc3ilyio-ua1yjwvr",
@@ -172,7 +177,7 @@
       "gamemode": "survival",
       "players": [
         "hi",
-        "DevastMod%20Bot(2 bots)",
+        "DevastMod%20Bot",
         "RelZz",
         "ELPRO"
       ],
@@ -180,20 +185,20 @@
         "HI"
       ],
       "status": "Connected",
-      "total_players": 5,
-      "last_parsed": "2025-06-25T06:40:18.207855"
+      "total_players": 4,
+      "last_parsed": "2025-06-25T06:42:23.589765"
     },
     {
       "id": "lobby-mc3im0nf-va7zewbu",
       "region": "Atlanta, Georgia",
       "gamemode": "survival",
       "players": [
-        "DevastMod%20Bot"
+        "DevastMod%20Bot(2 bots)"
       ],
       "clans": [],
       "status": "Connected",
-      "total_players": 1,
-      "last_parsed": "2025-06-25T06:40:17.700845"
+      "total_players": 2,
+      "last_parsed": "2025-06-25T06:42:22.930224"
     },
     {
       "id": "lobby-mc3im12d-pqpnpkuw",
@@ -201,15 +206,15 @@
       "gamemode": "survival",
       "players": [
         "HyRa",
-        "DevastMod%20Bot(2 bots)",
+        "DevastMod%20Bot",
         "Gillette"
       ],
       "clans": [
         "SSS"
       ],
       "status": "Connected",
-      "total_players": 4,
-      "last_parsed": "2025-06-25T06:40:17.207368"
+      "total_players": 3,
+      "last_parsed": "2025-06-25T06:42:22.497379"
     }
   ]
 }
