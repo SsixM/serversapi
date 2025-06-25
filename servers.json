@@ -7,7 +7,7 @@
       "players": [
         "%E3%80%8E%F0%9D%93%A1%F0%9D%93%A3%F0%9D%93%A7%E3%80%8F%F0%9D%99%881000",
         "%C9%AE%D3%84%C7%9F%C9%AE%CA%8F%C9%A2%C9%9B%D5%BC%C9%9B%CA%80%C7%9F%CA%9F",
-        "DevastMod%20Bot(2 bots)",
+        "DevastMod%20Bot",
         "%F0%9F%90%92%20%20%EF%BC%B7%F0%9D%90%8E%D1%8F%D0%BA%E2%93%94%C5%98%20%20%F0%9F%90%AF",
         "qe.chiken"
       ],
@@ -16,8 +16,8 @@
         "93"
       ],
       "status": "Connected",
-      "total_players": 6,
-      "last_parsed": "2025-06-25T08:52:43.205039"
+      "total_players": 5,
+      "last_parsed": "2025-06-25T08:54:49.239082"
     },
     {
       "id": "lobby-mc3ils9y-40tdl6qs",
@@ -34,7 +34,7 @@
       ],
       "status": "Connected",
       "total_players": 4,
-      "last_parsed": "2025-06-25T08:52:43.156596"
+      "last_parsed": "2025-06-25T08:54:49.431523"
     },
     {
       "id": "lobby-mc3ilrn8-6kmv6nmm",
@@ -46,7 +46,7 @@
       "clans": [],
       "status": "Connected",
       "total_players": 1,
-      "last_parsed": "2025-06-25T08:52:43.328821"
+      "last_parsed": "2025-06-25T08:54:49.235548"
     },
     {
       "id": "lobby-mc3ilv4e-qkqixhoy",
@@ -55,9 +55,8 @@
       "players": [
         "Herkof",
         "%D0%90%D0%91%D0%94%D0%A3%D0%9B%D0%9B%D0%90%D0%A5",
-        "sad",
-        "Kurt%20Knispel",
         "%D0%BB%D0%B5%D0%BD%D0%B8%D0%BD",
+        "xyesosik",
         "DevastMod%20Bot",
         "%E2%84%96%22%2A%3F",
         "Grox%20mc",
@@ -73,12 +72,11 @@
         "BOSS",
         "RUSSI",
         "SEX",
-        "DBS",
-        "DDDD"
+        "DBS"
       ],
       "status": "Connected",
-      "total_players": 15,
-      "last_parsed": "2025-06-25T08:52:42.842405"
+      "total_players": 14,
+      "last_parsed": "2025-06-25T08:54:48.917354"
     },
     {
       "id": "lobby-mc3ilukn-deva9p6o",
@@ -88,7 +86,7 @@
       "clans": [],
       "status": "FULL(No connectable)",
       "total_players": 0,
-      "last_parsed": "2025-06-25T08:52:45.280600"
+      "last_parsed": "2025-06-25T08:54:51.168900"
     },
     {
       "id": "lobby-mc3iltp3-udgl8jjk",
@@ -98,24 +96,22 @@
         "%F0%9D%95%BD%F0%9D%96%8A%F0%9D%96%98%F0%9D%96%8A%F0%9D%95%BF",
         "%D1%8F%20%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%B8%D0%B9",
         "Garnacho",
-        "Kurt%20Knispel",
         "DevastMod%20Bot",
-        "xyesosik",
+        "Kurt%20Knispel",
         "%D1%82%D0%BE%D1%80%D1%8F%D0%BD%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BA%D0%BE%D0%BD%D1%8C"
       ],
       "clans": [
         "SSSSS"
       ],
       "status": "Connected",
-      "total_players": 7,
-      "last_parsed": "2025-06-25T08:52:42.867954"
+      "total_players": 6,
+      "last_parsed": "2025-06-25T08:54:48.825123"
     },
     {
       "id": "lobby-mc3ilwax-ndie7fpg",
       "region": "Los Angeles, California",
       "gamemode": "survival",
       "players": [
-        "Kurt%20Knispel",
         "%28x%3D%3Dx%29",
         "%EA%A7%81%E2%9A%93%E2%84%98%F0%9D%92%BE%E2%84%9B%F0%9D%93%AA%F0%9D%93%89%F0%9D%91%92%EA%A7%82xd",
         "Yam",
@@ -125,8 +121,8 @@
         "ZEE"
       ],
       "status": "Connected",
-      "total_players": 5,
-      "last_parsed": "2025-06-25T08:52:43.329395"
+      "total_players": 4,
+      "last_parsed": "2025-06-25T08:54:49.620885"
     },
     {
       "id": "lobby-mc3ilvou-mqyykcgd",
@@ -143,7 +139,7 @@
       ],
       "status": "Connected",
       "total_players": 4,
-      "last_parsed": "2025-06-25T08:52:43.400253"
+      "last_parsed": "2025-06-25T08:54:49.648246"
     },
     {
       "id": "lobby-mc3ilwuw-ijlqcwl3",
@@ -155,7 +151,7 @@
       "clans": [],
       "status": "Connected",
       "total_players": 2,
-      "last_parsed": "2025-06-25T08:52:44.126099"
+      "last_parsed": "2025-06-25T08:54:50.332981"
     },
     {
       "id": "lobby-mc3ilzpa-w23cwwwf",
@@ -173,7 +169,7 @@
       ],
       "status": "Connected",
       "total_players": 5,
-      "last_parsed": "2025-06-25T08:52:44.125802"
+      "last_parsed": "2025-06-25T08:54:50.013235"
     },
     {
       "id": "lobby-mc3ilyio-ua1yjwvr",
@@ -186,7 +182,7 @@
       "clans": [],
       "status": "Connected",
       "total_players": 2,
-      "last_parsed": "2025-06-25T08:52:44.242996"
+      "last_parsed": "2025-06-25T08:54:50.190009"
     },
     {
       "id": "lobby-mc3im0nf-va7zewbu",
@@ -198,10 +194,12 @@
         "sicario",
         "TTW%20%7C%20%F0%9D%90%80%F0%9D%90%8A47"
       ],
-      "clans": [],
+      "clans": [
+        "MATEO"
+      ],
       "status": "Connected",
       "total_players": 5,
-      "last_parsed": "2025-06-25T08:52:43.128923"
+      "last_parsed": "2025-06-25T08:54:49.268562"
     },
     {
       "id": "lobby-mc3im12d-pqpnpkuw",
@@ -214,7 +212,7 @@
       "clans": [],
       "status": "Connected",
       "total_players": 2,
-      "last_parsed": "2025-06-25T08:52:42.901588"
+      "last_parsed": "2025-06-25T08:54:48.754992"
     }
   ]
 }
