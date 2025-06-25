@@ -9,13 +9,13 @@
         "Axeloo%20",
         "Sultan%20MehmetHan",
         "be%20nice",
-        "DevastMod%20Bot(2 bots)",
         "%C9%AE%D3%84%C7%9F%C9%AE%CA%8F%C9%A2%C9%9B%D5%BC%C9%9B%CA%80%C7%9F%CA%9F",
         "hi",
         "ts%20pmo%20",
         "%F0%9F%90%92%20%20%EF%BC%B7%F0%9D%90%8E%D1%8F%D0%BA%E2%93%94%C5%98%20%20%F0%9F%90%AF",
         "nota-",
         "Pukini%20",
+        "DevastMod%20Bot",
         "%D1%82%D0%B5%D1%80%D1%82%D0%B5%D0%B3123",
         "ANTY",
         "Vic%20papa",
@@ -28,8 +28,8 @@
         "LBT"
       ],
       "status": "Connected",
-      "total_players": 16,
-      "last_parsed": "2025-06-25T09:41:06.252686"
+      "total_players": 15,
+      "last_parsed": "2025-06-25T09:43:12.131938"
     },
     {
       "id": "lobby-mc3ils9y-40tdl6qs",
@@ -37,24 +37,26 @@
       "gamemode": "survival",
       "players": [
         "DevastMod%20Bot",
+        "Sultan%20MehmetHan",
         "%F0%9D%92%B4%F0%9D%92%AF%F0%9D%92%AE%F0%9D%92%B6%F0%9D%93%83%F0%9D%93%89%F0%9D%92%BE%F0%9D%92%A6"
       ],
       "clans": [],
       "status": "Connected",
-      "total_players": 2,
-      "last_parsed": "2025-06-25T09:41:06.213945"
+      "total_players": 3,
+      "last_parsed": "2025-06-25T09:43:12.107543"
     },
     {
       "id": "lobby-mc3ilrn8-6kmv6nmm",
       "region": "Atlanta, Georgia",
       "gamemode": "survival",
       "players": [
-        "DevastMod%20Bot"
+        "DevastMod%20Bot",
+        "Sultan%20MehmetHan"
       ],
       "clans": [],
       "status": "Connected",
-      "total_players": 1,
-      "last_parsed": "2025-06-25T09:41:06.206678"
+      "total_players": 2,
+      "last_parsed": "2025-06-25T09:43:12.247315"
     },
     {
       "id": "lobby-mc3ilv4e-qkqixhoy",
@@ -71,6 +73,7 @@
         "Grox%20mc",
         "AutoCOde",
         "PLS%E2%80%A2%E2%84%A2",
+        "%E1%B5%89%E1%B5%9B%E2%81%B1%F0%9F%86%81%F0%9F%85%B4%F0%9F%85%B0%F0%9F%85%BB%C2%A5%E2%82%AE%E1%B5%88%E1%B5%87%CB%A2",
         "%E9%AD%9A",
         "babalingo",
         "%D0%BB%D0%B5%D0%BD%D0%B8%D0%BD",
@@ -87,8 +90,8 @@
         "MP5"
       ],
       "status": "Connected",
-      "total_players": 17,
-      "last_parsed": "2025-06-25T09:41:05.821632"
+      "total_players": 18,
+      "last_parsed": "2025-06-25T09:43:11.846244"
     },
     {
       "id": "lobby-mc3ilukn-deva9p6o",
@@ -98,7 +101,7 @@
       "clans": [],
       "status": "FULL(No connectable)",
       "total_players": 0,
-      "last_parsed": "2025-06-25T09:41:07.937945"
+      "last_parsed": "2025-06-25T09:43:14.093223"
     },
     {
       "id": "lobby-mc3iltp3-udgl8jjk",
@@ -118,7 +121,7 @@
       ],
       "status": "Connected",
       "total_players": 7,
-      "last_parsed": "2025-06-25T09:41:05.741445"
+      "last_parsed": "2025-06-25T09:43:11.805852"
     },
     {
       "id": "lobby-mc3ilwax-ndie7fpg",
@@ -134,7 +137,7 @@
       ],
       "status": "Connected",
       "total_players": 3,
-      "last_parsed": "2025-06-25T09:41:06.567990"
+      "last_parsed": "2025-06-25T09:43:12.454902"
     },
     {
       "id": "lobby-mc3ilvou-mqyykcgd",
@@ -152,7 +155,7 @@
       ],
       "status": "Connected",
       "total_players": 5,
-      "last_parsed": "2025-06-25T09:41:06.358856"
+      "last_parsed": "2025-06-25T09:43:12.599259"
     },
     {
       "id": "lobby-mc3ilwuw-ijlqcwl3",
@@ -165,25 +168,23 @@
       "clans": [],
       "status": "Connected",
       "total_players": 3,
-      "last_parsed": "2025-06-25T09:41:06.950470"
+      "last_parsed": "2025-06-25T09:43:13.031743"
     },
     {
       "id": "lobby-mc3ilzpa-w23cwwwf",
       "region": "Osaka, Japan",
       "gamemode": "survival",
       "players": [
-        "c%E1%BB%8Dlkidd",
+        "oc%20cho",
         "OP10%E2%9C%BC",
         "maru",
         "DevastMod%20Bot",
         "m"
       ],
-      "clans": [
-        "A"
-      ],
+      "clans": [],
       "status": "Connected",
       "total_players": 5,
-      "last_parsed": "2025-06-25T09:41:06.794974"
+      "last_parsed": "2025-06-25T09:43:13.161870"
     },
     {
       "id": "lobby-mc3ilyio-ua1yjwvr",
@@ -198,7 +199,7 @@
       ],
       "status": "Connected",
       "total_players": 2,
-      "last_parsed": "2025-06-25T09:41:07.028475"
+      "last_parsed": "2025-06-25T09:43:12.861495"
     },
     {
       "id": "lobby-mc3im0nf-va7zewbu",
@@ -210,7 +211,7 @@
       "clans": [],
       "status": "Connected",
       "total_players": 2,
-      "last_parsed": "2025-06-25T09:41:06.284883"
+      "last_parsed": "2025-06-25T09:43:12.093537"
     },
     {
       "id": "lobby-mc3im12d-pqpnpkuw",
@@ -218,12 +219,13 @@
       "gamemode": "survival",
       "players": [
         "DevastMod%20Bot",
+        "Sultan%20MehmetHan",
         "TTW%20%7C%20%F0%9D%90%80%F0%9D%90%8A47"
       ],
       "clans": [],
       "status": "Connected",
-      "total_players": 2,
-      "last_parsed": "2025-06-25T09:41:05.820266"
+      "total_players": 3,
+      "last_parsed": "2025-06-25T09:43:11.881324"
     }
   ]
 }
