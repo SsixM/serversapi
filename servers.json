@@ -10,11 +10,11 @@
         "pukini",
         "erik",
         "adrian",
-        "Pancracio",
+        "eafie",
         "Hax",
         "%C9%AE%D3%84%C7%9F%C9%AE%CA%8F%C9%A2%C9%9B%D5%BC%C9%9B%CA%80%C7%9F%CA%9F",
         "Aizez_Sama",
-        "DevastMod%20Bot(2 bots)",
+        "DevastMod%20Bot",
         "seba",
         "%E7%88%AA%E3%84%A9%E4%B8%AB%E7%88%AA%E3%84%A9%E4%B8%AB%F0%9F%9D%97%F0%9D%93%9D%E2%BC%95%E9%97%A9%F0%9D%93%9D%E3%80%B8%E9%97%A9",
         "rosemary",
@@ -29,8 +29,8 @@
         "GUTS"
       ],
       "status": "Connected",
-      "total_players": 17,
-      "last_parsed": "2025-06-25T03:31:25.094417"
+      "total_players": 16,
+      "last_parsed": "2025-06-25T03:33:30.789435"
     },
     {
       "id": "lobby-mc3ils9y-40tdl6qs",
@@ -45,7 +45,7 @@
       "clans": [],
       "status": "Connected",
       "total_players": 4,
-      "last_parsed": "2025-06-25T03:31:25.048518"
+      "last_parsed": "2025-06-25T03:33:30.852758"
     },
     {
       "id": "lobby-mc3ilrn8-6kmv6nmm",
@@ -62,7 +62,7 @@
       ],
       "status": "Connected",
       "total_players": 4,
-      "last_parsed": "2025-06-25T03:31:25.047862"
+      "last_parsed": "2025-06-25T03:33:30.859056"
     },
     {
       "id": "lobby-mc3ilv4e-qkqixhoy",
@@ -79,11 +79,12 @@
       ],
       "clans": [
         "SCP",
-        "SQSQQ"
+        "SQSQQ",
+        "MA40"
       ],
       "status": "Connected",
       "total_players": 7,
-      "last_parsed": "2025-06-25T03:31:24.766712"
+      "last_parsed": "2025-06-25T03:33:30.392944"
     },
     {
       "id": "lobby-mc3ilukn-deva9p6o",
@@ -93,7 +94,7 @@
       "clans": [],
       "status": "FULL(No connectable)",
       "total_players": 0,
-      "last_parsed": "2025-06-25T03:31:27.145813"
+      "last_parsed": "2025-06-25T03:33:32.734708"
     },
     {
       "id": "lobby-mc3iltp3-udgl8jjk",
@@ -109,7 +110,7 @@
       ],
       "status": "Connected",
       "total_players": 3,
-      "last_parsed": "2025-06-25T03:31:24.768280"
+      "last_parsed": "2025-06-25T03:33:30.470888"
     },
     {
       "id": "lobby-mc3ilwax-ndie7fpg",
@@ -123,12 +124,11 @@
         "meow"
       ],
       "clans": [
-        "W",
         "CARSW"
       ],
       "status": "Connected",
       "total_players": 5,
-      "last_parsed": "2025-06-25T03:31:25.293080"
+      "last_parsed": "2025-06-25T03:33:31.109035"
     },
     {
       "id": "lobby-mc3ilvou-mqyykcgd",
@@ -141,7 +141,7 @@
       "clans": [],
       "status": "Connected",
       "total_players": 2,
-      "last_parsed": "2025-06-25T03:31:25.308974"
+      "last_parsed": "2025-06-25T03:33:31.054519"
     },
     {
       "id": "lobby-mc3ilwuw-ijlqcwl3",
@@ -153,7 +153,7 @@
       "clans": [],
       "status": "Connected",
       "total_players": 2,
-      "last_parsed": "2025-06-25T03:31:25.989744"
+      "last_parsed": "2025-06-25T03:33:31.987147"
     },
     {
       "id": "lobby-mc3ilzpa-w23cwwwf",
@@ -177,7 +177,7 @@
       ],
       "status": "Connected",
       "total_players": 9,
-      "last_parsed": "2025-06-25T03:31:25.769677"
+      "last_parsed": "2025-06-25T03:33:31.581629"
     },
     {
       "id": "lobby-mc3ilyio-ua1yjwvr",
@@ -190,7 +190,7 @@
       "clans": [],
       "status": "Connected",
       "total_players": 2,
-      "last_parsed": "2025-06-25T03:31:26.097294"
+      "last_parsed": "2025-06-25T03:33:31.581925"
     },
     {
       "id": "lobby-mc3im0nf-va7zewbu",
@@ -207,7 +207,7 @@
       ],
       "status": "Connected",
       "total_players": 6,
-      "last_parsed": "2025-06-25T03:31:25.242688"
+      "last_parsed": "2025-06-25T03:33:30.726861"
     },
     {
       "id": "lobby-mc3im12d-pqpnpkuw",
@@ -224,7 +224,7 @@
       ],
       "status": "Connected",
       "total_players": 4,
-      "last_parsed": "2025-06-25T03:31:24.776219"
+      "last_parsed": "2025-06-25T03:33:30.506697"
     }
   ]
 }
