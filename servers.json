@@ -5,18 +5,17 @@
       "region": "Atlanta, Georgia",
       "gamemode": "survival",
       "players": [
-        "dc.gg%2Fscript1(103 bots)",
+        "dc.gg%2Fscript1(105 bots)",
         "%F0%9F%90%92%20%20%EF%BC%B7%F0%9D%90%8E%D1%8F%D0%BA%E2%93%94%C5%98%20%20%F0%9F%90%AF",
         "%20%20%20%20",
         "GD",
         "%F0%9F%90%B1%E2%80%8D%F0%9F%91%A4russ%E2%9C%A8",
-        "%F0%9F%91%8Ckrimo.dz%D8%B9_JRY_",
         "gaaa",
-        "DevastMod%20Bot",
-        "z%CD%8D%F0%9D%99%B4%C6%A6%C3%B8%E1%B4%AE%E1%B4%BF%CB%A2",
+        "123",
         "%EF%B8%8E",
         "xxx",
-        "Bob",
+        "DevastMod%20Bot",
+        "%F0%9D%96%89%F0%9D%96%92%F0%9D%96%8A%F0%9D%96%99%F0%9D%96%97%F0%9D%96%86",
         "%E0%AB%AE%20%CB%B6%E1%B5%94%20%E1%B5%95%20%E1%B5%94%CB%B6%20%E1%83%90",
         "Sarmiento"
       ],
@@ -24,8 +23,8 @@
         "JOIN(18)"
       ],
       "status": "Connected",
-      "total_players": 116,
-      "last_parsed": "2025-06-25T20:57:35.667842"
+      "total_players": 117,
+      "last_parsed": "2025-06-25T20:59:44.087461"
     },
     {
       "id": "lobby-mc3ils9y-40tdl6qs",
@@ -43,44 +42,29 @@
       ],
       "status": "Connected",
       "total_players": 6,
-      "last_parsed": "2025-06-25T20:57:35.617919"
+      "last_parsed": "2025-06-25T20:59:42.238117"
     },
     {
       "id": "lobby-mc3ilrn8-6kmv6nmm",
       "region": "Atlanta, Georgia",
       "gamemode": "survival",
       "players": [
-        "DevastMod%20Bot(2 bots)",
-        "Tr-tklyn"
+        "DevastMod%20Bot(2 bots)"
       ],
       "clans": [],
       "status": "Connected",
-      "total_players": 3,
-      "last_parsed": "2025-06-25T20:57:35.704173"
+      "total_players": 2,
+      "last_parsed": "2025-06-25T20:59:42.037287"
     },
     {
       "id": "lobby-mc3ilv4e-qkqixhoy",
       "region": "Frankfurt, Deutschland",
       "gamemode": "survival",
-      "players": [
-        "dc.gg%2Fscript1(110 bots)",
-        "kobra",
-        "%D0%BA%D0%B5%D0%BD%D1%82",
-        "%E2%81%BF%E1%B5%92%E1%B5%92%E1%B5%87%CB%A2%20%24%21Hl%21%24",
-        "%F0%9D%96%89%F0%9D%96%92%F0%9D%96%8A%F0%9D%96%99%F0%9D%96%97%F0%9D%96%86",
-        "XXX",
-        "%D0%9F%D0%B8%D0%B7%D0%B4%D0%BE%D1%81%D1%80%D0%B0%D0%BA",
-        "DevastMod%20Bot",
-        "srost",
-        "1"
-      ],
-      "clans": [
-        "T2",
-        "JOIN(16)"
-      ],
-      "status": "Connected",
-      "total_players": 119,
-      "last_parsed": "2025-06-25T20:57:38.295032"
+      "players": [],
+      "clans": [],
+      "status": "FULL(No connectable)",
+      "total_players": 0,
+      "last_parsed": "2025-06-25T20:59:44.348578"
     },
     {
       "id": "lobby-mc3ilukn-deva9p6o",
@@ -90,7 +74,7 @@
       "clans": [],
       "status": "FULL(No connectable)",
       "total_players": 0,
-      "last_parsed": "2025-06-25T20:57:38.213697"
+      "last_parsed": "2025-06-25T20:59:44.392465"
     },
     {
       "id": "lobby-mc3iltp3-udgl8jjk",
@@ -100,7 +84,7 @@
       "clans": [],
       "status": "FULL(No connectable)",
       "total_players": 0,
-      "last_parsed": "2025-06-25T20:57:38.196412"
+      "last_parsed": "2025-06-25T20:59:44.356843"
     },
     {
       "id": "lobby-mc3ilwax-ndie7fpg",
@@ -109,32 +93,33 @@
       "players": [
         "%20",
         "bonnie",
-        "notochi",
         "The%20guy",
         "DevastMod%20Bot(2 bots)",
         "%20%EA%9C%B1%E1%B4%9B%CA%80%20%C9%A2%E1%B4%87%C9%B4%C9%AA%E1%B4%80%CA%9F%20%20%F0%9F%A5%BD",
         "Grub%20Hub"
       ],
       "clans": [
+        "SWAT",
         "GIRL"
       ],
       "status": "Connected",
-      "total_players": 8,
-      "last_parsed": "2025-06-25T20:57:35.964799"
+      "total_players": 7,
+      "last_parsed": "2025-06-25T20:59:42.601054"
     },
     {
       "id": "lobby-mc3ilvou-mqyykcgd",
       "region": "Los Angeles, California",
       "gamemode": "survival",
       "players": [
+        "NASA25%40",
         "DevastMod%20Bot(2 bots)",
         "ola",
         "Jordan%20Peterson"
       ],
       "clans": [],
       "status": "Connected",
-      "total_players": 4,
-      "last_parsed": "2025-06-25T20:57:36.079597"
+      "total_players": 5,
+      "last_parsed": "2025-06-25T20:59:42.173231"
     },
     {
       "id": "lobby-mc3ilwuw-ijlqcwl3",
@@ -146,7 +131,7 @@
       "clans": [],
       "status": "Connected",
       "total_players": 1,
-      "last_parsed": "2025-06-25T20:57:36.520274"
+      "last_parsed": "2025-06-25T20:59:43.294818"
     },
     {
       "id": "lobby-mc3ilzpa-w23cwwwf",
@@ -155,14 +140,17 @@
       "players": [
         "DevastMod%20Bot(2 bots)",
         "toxic",
+        "dc.gg%2Fscript1(7 bots)",
+        "%F0%9F%84%BC%F0%9F%85%81%20%F0%9F%85%83%F0%9F%84%B4%F0%9F%84%BC",
         "%201234"
       ],
       "clans": [
-        "23"
+        "23",
+        "JOIN(4)"
       ],
       "status": "Connected",
-      "total_players": 4,
-      "last_parsed": "2025-06-25T20:57:37.099180"
+      "total_players": 12,
+      "last_parsed": "2025-06-25T20:59:43.164080"
     },
     {
       "id": "lobby-mc3ilyio-ua1yjwvr",
@@ -175,20 +163,20 @@
       "clans": [],
       "status": "Connected",
       "total_players": 3,
-      "last_parsed": "2025-06-25T20:57:37.057433"
+      "last_parsed": "2025-06-25T20:59:43.164387"
     },
     {
       "id": "lobby-mc3im0nf-va7zewbu",
       "region": "Atlanta, Georgia",
       "gamemode": "survival",
       "players": [
-        "DevastMod%20Bot(2 bots)",
+        "DevastMod%20Bot",
         "Equipo%20pto"
       ],
       "clans": [],
       "status": "Connected",
-      "total_players": 3,
-      "last_parsed": "2025-06-25T20:57:35.721667"
+      "total_players": 2,
+      "last_parsed": "2025-06-25T20:59:42.036730"
     },
     {
       "id": "lobby-mc3im12d-pqpnpkuw",
@@ -196,11 +184,10 @@
       "gamemode": "survival",
       "players": [
         "dc.gg%2Fscript1(111 bots)",
-        "ARK-HAL%C4%B0M",
         "tofu",
         "DREAMWORLD",
-        "PRO_POLPOK",
         "DevastMod%20Bot",
+        "PRO_POLPOK",
         "%E2%96%84%EF%B8%BB%E3%83%87%E2%95%90%E2%95%90%E2%94%81%E4%B8%80%F0%9D%93%AF%F0%9D%93%BB%F0%9D%93%AE%F0%9D%93%AA",
         "%20%E2%80%A2%F0%9D%93%BC%F0%9D%93%B8%F0%9D%93%B1%F0%9D%93%AA%F0%9D%93%B2%F0%9D%93%AB%E2%80%A2",
         "tomatik%20AD%20TOP"
@@ -210,8 +197,8 @@
         "JOIN(17)"
       ],
       "status": "Connected",
-      "total_players": 119,
-      "last_parsed": "2025-06-25T20:57:38.146451"
+      "total_players": 118,
+      "last_parsed": "2025-06-25T20:59:43.319961"
     }
   ]
 }
